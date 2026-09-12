@@ -1,12 +1,12 @@
-﻿{
-  version: 2.2.0,
-  buildDate: 2026-09-12,
-  packageSize: 0.21 MB (Gói siêu nhẹ),
-  releaseNotes: [
-    🚀 [Tính Năng Mới]: Hỗ trợ chèn Watermark Logo thương hiệu lên góc video,
-    🚀 [Tính Năng Mới]: Nạp thêm Font chữ tùy chọn bên ngoài (.ttf, .otf),
-    🛠 [Sửa Lỗi]: Tối ưu hóa render Vietsub và lồng tiếng AI chạy nền 100%,
-    ⚡ [Tối Ưu]: Tăng tốc độ render và xuất video mượt mà chất lượng cao
+{
+  "version": "2.2.0",
+  "buildDate": "2026-09-12",
+  "packageSize": "0.21 MB (Gói siêu nhẹ)",
+  "releaseNotes": [
+    "🚀 [Tính Năng Mới]: Hỗ trợ chèn Watermark Logo thương hiệu lên góc video",
+    "🚀 [Tính Năng Mới]: Nạp thêm Font chữ tùy chọn bên ngoài (.ttf, .otf)",
+    "🛠 [Sửa Lỗi]: Tối ưu hóa render Vietsub và lồng tiếng AI chạy nền 100%",
+    "⚡ [Tối Ưu]: Tăng tốc độ render và xuất video mượt mà chất lượng cao"
   ],
-  updateUrl: https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v2.2.0/latest_ota_package.zip
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v2.2.0/latest_ota_package.zip"
 }
