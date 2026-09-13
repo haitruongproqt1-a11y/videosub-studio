@@ -1,17 +1,15 @@
 {
-  "version": "2.6.1",
+  "version": "2.6.2",
   "buildDate": "2026-09-13",
   "packageSize": "0.26 MB (Gói siêu nhẹ)",
   "requireVipForUpdates": false,
   "releaseNotes": [
+    "🛡️ [Khắc Phục 100% Lỗi EMFILE (Quá Nhiều Tệp Mở)]: Tối ưu hóa triệt để luồng đọc phát video và cơ chế lưu trữ bản quyền máy.",
+    "🎭 [Chuẩn Hóa & Mở Rộng 8 Vai Giọng Đọc]: Phân vai chính xác 100% không bị lẫn giọng nam/nữ (Trai trẻ Mạnh Dũng, Gái trẻ Hương Giang, Ngọc Huyền, Ông già, Bà già, Em trai, Em gái, Dẫn chuyện).",
+    "✨ [Khung Mờ Che Chữ Gốc Trong Suốt & Tự Co Giãn]: Khung làm mờ sáng đẹp tinh tế, độ trong suốt cao không bị đen kịt, tự động co giãn vừa khít độ dài câu chữ.",
     "👑 [Admin Quản Lý Key]: Bổ sung tính năng Sửa Thời Hạn cho từng máy khách (Gia hạn / rút ngắn ngày hoặc nâng Vĩnh viễn).",
-    "🎭 [Tùy Chọn Phân Vai Linh Hoạt]: Mặc định đọc 100% theo Chất Giọng Nền & Phong Cách đã chọn; chỉ hiện menu chọn vai (Nam, Nữ, Trẻ em, Dẫn chuyện...) khi người dùng chủ động bật Chế Độ Phân Vai.",
-    "🚀 [Giao Diện Tinh Gọn Siêu Tốc]: Loại bỏ hoàn toàn mục Studio Âm Thanh Đa Kênh thừa, tối ưu hóa tốc độ và độ mượt khi làm việc.",
-    "🌟 [Giọng Đọc Mới]: Ngọc Huyền (Review Phim triệu view), Mạnh Dũng, Hương Giang, Tiến Dũng cùng Hoài My, Nam Minh.",
     "⚡ [Đồng Bộ Tức Thì 0ms]: Sửa chữ phụ đề hoặc bấm Dịch lại là giọng đọc thuyết minh cập nhật ngay lập tức.",
-    "🎯 [WYSIWYG 100% Khớp Chuẩn Tuyệt Đối]: Xuất video khớp 100% vị trí hộp làm mờ, cỡ chữ Vietsub và vị trí y hệt trong Studio.",
-    "🖐️ [Draggable Mini-Player]: Kéo thả khung xem trước thu nhỏ đến bất kỳ vị trí nào trên màn hình.",
-    "🛡️ [Ẩn Terminal 100%]: Tuyệt đối không nhảy cửa sổ đen Terminal khi render và xuất video."
+    "🎯 [WYSIWYG 100% Khớp Chuẩn Tuyệt Đối]: Xuất video khớp 100% vị trí hộp làm mờ, cỡ chữ Vietsub to rõ như trong Studio."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v2.6.1/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v2.6.2/latest_ota_package.zip"
 }
