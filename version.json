@@ -4,11 +4,11 @@
   "packageSize": "0.26 MB (Gói siêu nhẹ)",
   "requireVipForUpdates": false,
   "releaseNotes": [
+    "✨ [Khôi Phục Khung Mờ Kính Chuẩn Bản Cũ]: Khôi phục lại kiểu dáng Khung mờ kính (Frosted Box) ôm sát phụ đề bán trong suốt đẹp tự nhiên, không bị vệt mờ to đùng cắt ngang video.",
+    "📈 [Sửa Lỗi Nhảy % Tiến Trình Xuất Video]: Đảm bảo thanh % luôn tăng tịnh tiến mượt mà từ 0% đến 100%, khắc phục triệt để hiện tượng nhảy giật lùi (75% về 68%).",
+    "⚡ [Tăng Tốc Xuất Video Siêu Tốc 600-800+ FPS]: Tối ưu hóa GPU NVENC Preset P2 và bộ đệm khoảng lặng Silence Cache tức thì, xử lý video dài 2-3 tiếng siêu tốc mà vẫn đảm bảo 100% dung lượng và chất lượng.",
     "🔤 [Sửa Lỗi Tên Video Tiếng Việt & Tiếng Trung]: Khắc phục 100% lỗi font chữ, ký tự lạ mojibake khi tải lên và hiển thị chuẩn xác tên video Tiếng Việt và Tiếng Trung.",
-    "🚀 [Không Treo Video Khi Chuyển Dự Án]: Giải phóng bộ nhớ và dọn dẹp triệt để player khi đổi video, chuyển đổi giữa các dự án mượt mà tức thì 0ms độ trễ.",
-    "⚡ [Tăng Tốc Xuất Video Siêu Tốc]: Kích hoạt tăng tốc phần cứng GPU đa luồng (NVIDIA NVENC, Intel QuickSync QSV, AMD AMF) và tổng hợp giọng đọc AI song song x2 tốc độ.",
-    "🔊 [Hòa Âm Chuẩn Xác 100% Khi Xuất File]: Giữ trọn vẹn âm thanh video gốc kết hợp mượt mà với giọng đọc AI thuyết minh (tự động hạ nhạc nền khi có lời đọc).",
-    "⏸️ [Điều Khiển Xuất Video Nâng Cao]: Hỗ trợ Tạm dừng (Pause), Tiếp tục (Resume), Hủy bỏ (Cancel) và Chạy ngầm khi đóng cửa sổ kèm huy hiệu theo dõi tiến trình nổi."
+    "🚀 [Không Treo Video Khi Chuyển Dự Án]: Giải phóng bộ nhớ và dọn dẹp triệt để player khi đổi video, chuyển đổi giữa các dự án mượt mà tức thì 0ms độ trễ."
   ],
   "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v2.7.0/latest_ota_package.zip"
 }
