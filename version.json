@@ -1,15 +1,14 @@
 {
-  "version": "2.6.2",
+  "version": "2.7.0",
   "buildDate": "2026-09-13",
   "packageSize": "0.26 MB (Gói siêu nhẹ)",
   "requireVipForUpdates": false,
   "releaseNotes": [
-    "🛡️ [Khắc Phục 100% Lỗi EMFILE (Quá Nhiều Tệp Mở)]: Tối ưu hóa triệt để luồng đọc phát video và cơ chế lưu trữ bản quyền máy.",
-    "🎭 [Chuẩn Hóa & Mở Rộng 8 Vai Giọng Đọc]: Phân vai chính xác 100% không bị lẫn giọng nam/nữ (Trai trẻ Mạnh Dũng, Gái trẻ Hương Giang, Ngọc Huyền, Ông già, Bà già, Em trai, Em gái, Dẫn chuyện).",
-    "✨ [Khung Mờ Che Chữ Gốc Trong Suốt & Tự Co Giãn]: Khung làm mờ sáng đẹp tinh tế, độ trong suốt cao không bị đen kịt, tự động co giãn vừa khít độ dài câu chữ.",
-    "👑 [Admin Quản Lý Key]: Bổ sung tính năng Sửa Thời Hạn cho từng máy khách (Gia hạn / rút ngắn ngày hoặc nâng Vĩnh viễn).",
-    "⚡ [Đồng Bộ Tức Thì 0ms]: Sửa chữ phụ đề hoặc bấm Dịch lại là giọng đọc thuyết minh cập nhật ngay lập tức.",
-    "🎯 [WYSIWYG 100% Khớp Chuẩn Tuyệt Đối]: Xuất video khớp 100% vị trí hộp làm mờ, cỡ chữ Vietsub to rõ như trong Studio."
+    "🔤 [Sửa Lỗi Tên Video Tiếng Việt & Tiếng Trung]: Khắc phục 100% lỗi font chữ, ký tự lạ mojibake khi tải lên và hiển thị chuẩn xác tên video Tiếng Việt và Tiếng Trung.",
+    "🚀 [Không Treo Video Khi Chuyển Dự Án]: Giải phóng bộ nhớ và dọn dẹp triệt để player khi đổi video, chuyển đổi giữa các dự án mượt mà tức thì 0ms độ trễ.",
+    "⚡ [Tăng Tốc Xuất Video Siêu Tốc]: Kích hoạt tăng tốc phần cứng GPU đa luồng (NVIDIA NVENC, Intel QuickSync QSV, AMD AMF) và tổng hợp giọng đọc AI song song x2 tốc độ.",
+    "🔊 [Hòa Âm Chuẩn Xác 100% Khi Xuất File]: Giữ trọn vẹn âm thanh video gốc kết hợp mượt mà với giọng đọc AI thuyết minh (tự động hạ nhạc nền khi có lời đọc).",
+    "⏸️ [Điều Khiển Xuất Video Nâng Cao]: Hỗ trợ Tạm dừng (Pause), Tiếp tục (Resume), Hủy bỏ (Cancel) và Chạy ngầm khi đóng cửa sổ kèm huy hiệu theo dõi tiến trình nổi."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v2.6.2/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v2.7.0/latest_ota_package.zip"
 }
