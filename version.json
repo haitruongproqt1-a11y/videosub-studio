@@ -1,14 +1,14 @@
 {
-  "version": "2.7.0",
-  "buildDate": "2026-09-13",
-  "packageSize": "0.26 MB (Gói siêu nhẹ)",
+  "version": "2.8.0",
+  "buildDate": "2026-09-14",
+  "packageSize": "0.27 MB (Gói siêu nhẹ)",
   "requireVipForUpdates": false,
   "releaseNotes": [
-    "✨ [Khôi Phục Khung Mờ Kính Chuẩn Bản Cũ]: Khôi phục lại kiểu dáng Khung mờ kính (Frosted Box) ôm sát phụ đề bán trong suốt đẹp tự nhiên, không bị vệt mờ to đùng cắt ngang video.",
-    "📈 [Sửa Lỗi Nhảy % Tiến Trình Xuất Video]: Đảm bảo thanh % luôn tăng tịnh tiến mượt mà từ 0% đến 100%, khắc phục triệt để hiện tượng nhảy giật lùi (75% về 68%).",
-    "⚡ [Tăng Tốc Xuất Video Siêu Tốc 600-800+ FPS]: Tối ưu hóa GPU NVENC Preset P2 và bộ đệm khoảng lặng Silence Cache tức thì, xử lý video dài 2-3 tiếng siêu tốc mà vẫn đảm bảo 100% dung lượng và chất lượng.",
-    "🔤 [Sửa Lỗi Tên Video Tiếng Việt & Tiếng Trung]: Khắc phục 100% lỗi font chữ, ký tự lạ mojibake khi tải lên và hiển thị chuẩn xác tên video Tiếng Việt và Tiếng Trung.",
-    "🚀 [Không Treo Video Khi Chuyển Dự Án]: Giải phóng bộ nhớ và dọn dẹp triệt để player khi đổi video, chuyển đổi giữa các dự án mượt mà tức thì 0ms độ trễ."
+    "⏱️ [Bộ Đếm Thời Gian Thực & Ước Tính Xong (ETA)]: Đếm thời gian thực tế đã chạy và tự động dự đoán chính xác thời gian hoàn thành (ví dụ: 5s, 30s, 1 phút...) cho mọi tiến trình dịch thuật Vietsub, xuất video render, ghép nối clip.",
+    "⚡ [Tăng Tốc Dịch Thuật Đa Luồng Siêu Nhanh]: Tăng tốc độ dịch AI lên 3–4 luồng song song (tự động mở rộng 4–6 luồng với nhiều API Key), giữ vững 100% ngữ cảnh chuẩn xác tự nhiên, không gián đoạn.",
+    "🎨 [Đóng Dấu Bản Quyền Đa Lớp & Bộ Sticker Che Chữ]: Hỗ trợ chèn đồng thời cả Chữ/Hotline và Logo ảnh PNG/JPG, tùy chỉnh tọa độ tự do X%, Y% đến bất kỳ vị trí nào trên video kèm bộ Sticker bản quyền độc quyền (REVIEW PHIM, BẢN QUYỀN ĐỘC QUYỀN, HOT TREND...).",
+    "🌌 [Tùy Biến Bố Cục & Phông Nền Studio]: 4 Chế độ bố cục giao diện (Cổ điển, Rạp chiếu phim, Phụ đề chuyên sâu, Cân bằng) cùng 5 Theme màu sắc và khả năng tự nạp Hình nền cá nhân kèm điều chỉnh độ mờ (Blur) & độ tối (Dim).",
+    "🚀 [Xuất Video Tốc Độ Cao & Khung Mờ Kính Chuẩn Xác]: Giữ nguyên độ mượt, thanh % chuẩn xác không nhảy giật lùi, âm lượng thuyết minh to rõ vang đều."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v2.7.0/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v2.8.0/latest_ota_package.zip"
 }
