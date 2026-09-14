@@ -1,14 +1,15 @@
 {
-  "version": "2.9.0",
+  "version": "2.9.1",
   "buildDate": "2026-09-14",
   "packageSize": "0.27 MB (Gói siêu nhẹ)",
   "requireVipForUpdates": false,
   "releaseNotes": [
-    "💾 [Lưu & Tiếp Tục Checkpoint (Resume)]: Tự động lưu tức thì sau từng đoạn 60s ra file đĩa cứng; nếu mất mạng hoặc chạm hạn mức API giữa chừng, chỉ cần 1 bấm 'Tiếp tục dịch dở dang' để chạy tiếp các đoạn còn thiếu mà không phải làm lại từ đầu.",
-    "🌊 [Biên Tập Dòng Thời Gian Sóng Âm (Waveform Timeline)]: Hiển thị dạng sóng âm thanh trực quan chuẩn DAW/CapCut với các khối phụ đề có tay cầm kéo thả (drag handles) căn chỉnh mốc bắt đầu/kết thúc chuẩn xác đến từng mili-giây, hỗ trợ thu phóng 1x - 8x.",
-    "🎚️ [Cân Bằng Âm Lượng Auto-Ducking Nâng Cao]: Bộ nén Sidechain Compression thế hệ mới (Ratio 8:1, Release 750ms) kết hợp Compand triệt tiêu hiện tượng nhạc nền nổ to bất ngờ làm át tiếng, loại bỏ hoàn toàn hiện tượng giật cục pumping.",
-    "🌟 [Tinh Gọn Danh Mục 4 Giọng Đọc Chủ Lực]: Tối ưu hóa 1-chạm 4 chất giọng đỉnh cao: Nữ Ngọc Huyền (Review Phim), Nam Mạnh Dũng (Kịch Tính), Nữ Hương Giang (Kể Chuyện), Nam Nam Minh (Thời Sự).",
-    "🎨 [Giao Diện Studio Chuyên Nghiệp]: Tinh giản Theme tối ưu hiệu năng và độ tập trung cao nhất cho nhà sáng tạo nội dung."
+    "🎙️ [Master PCM Timeline Engine]: Khớp chuẩn xác 100% mốc thời gian phụ đề Vietsub đến từng mili-giây (độ lệch 0.00ms), triệt tiêu hoàn toàn hiện tượng lệch pha tích lũy khi video kéo dài.",
+    "🔄 [Chấm Dứt 100% Lỗi Đọc Lặp Lại]: Cố định ID câu thoại và kiểm soát ranh giới ngắt nghỉ thông minh, tuyệt đối không lặp lại câu cũ khi chuyển cảnh, tạm dừng hay tua nhanh.",
+    "🗣️ [Khử Triệt Để Hiện Tượng Giật Cục & Nuốt Chữ]: Bỏ cắt cụt '-t', giữ trọn vẹn âm cuối tiếng Việt, điều hòa nhịp điệu tự nhiên êm ái (cực đại 1.28x) không bị líu lưỡi sóc chuột.",
+    "⚡ [Khóa Cứng Đồng Bộ Xem Trước Studio]: Dải âm thanh Master Dubbing Track phát trực tiếp khóa cứng 1:1 theo video player, hỗ trợ tua tức thì HTTP 206 không độ trễ.",
+    "💾 [Lưu & Tiếp Tục Checkpoint (Resume)]: Tự động lưu tiến trình dịch video dài, tiếp tục dịch ngay khi có mạng mà không phải chạy lại từ đầu.",
+    "🌊 [Biên Tập Dòng Thời Gian Sóng Âm (Waveform Timeline)]: Hiển thị waveform âm thanh trực quan chuẩn DAW/CapCut với các khối phụ đề kéo thả căn chỉnh mốc thời gian."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v2.9.0/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v2.9.1/latest_ota_package.zip"
 }
