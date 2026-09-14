@@ -8,8 +8,8 @@
     "🔄 [Chấm Dứt 100% Lỗi Đọc Lặp Lại]: Cố định ID câu thoại và kiểm soát ranh giới ngắt nghỉ thông minh, tuyệt đối không lặp lại câu cũ khi chuyển cảnh, tạm dừng hay tua nhanh.",
     "🗣️ [Khử Triệt Để Hiện Tượng Giật Cục & Nuốt Chữ]: Bỏ cắt cụt '-t', giữ trọn vẹn âm cuối tiếng Việt, điều hòa nhịp điệu tự nhiên êm ái (cực đại 1.28x) không bị líu lưỡi sóc chuột.",
     "⚡ [Khóa Cứng Đồng Bộ Xem Trước Studio]: Dải âm thanh Master Dubbing Track phát trực tiếp khóa cứng 1:1 theo video player, hỗ trợ tua tức thì HTTP 206 không độ trễ.",
-    "💾 [Lưu & Tiếp Tục Checkpoint (Resume)]: Tự động lưu tiến trình dịch video dài, tiếp tục dịch ngay khi có mạng mà không phải chạy lại từ đầu.",
-    "🌊 [Biên Tập Dòng Thời Gian Sóng Âm (Waveform Timeline)]: Hiển thị waveform âm thanh trực quan chuẩn DAW/CapCut với các khối phụ đề kéo thả căn chỉnh mốc thời gian."
+    "⚡ [Tối Ưu Hóa Trực Quan & Triệt Tiêu Giật Lag]: Khôi phục thanh phát timeline gọn gàng, siêu nhẹ, loại bỏ hoàn toàn hiện tượng khựng lag khi lướt video dài.",
+    "💾 [Lưu & Tiếp Tục Checkpoint (Resume)]: Tự động lưu tiến trình dịch video dài, tiếp tục dịch ngay khi có mạng mà không phải chạy lại từ đầu."
   ],
   "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v2.9.1/latest_ota_package.zip"
 }
