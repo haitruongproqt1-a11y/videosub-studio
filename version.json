@@ -1,18 +1,26 @@
 {
-  "version": "1.0.0",
+  "currentVersion": "1.0.0",
   "buildDate": "2026-09-14",
-  "packageSize": "0.28 MB (Gói siêu nhẹ)",
+  "channel": "stable",
+  "updateServerUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio",
   "requireVipForUpdates": false,
+  "previousBackup": {
+    "version": "2.10.1",
+    "date": "2026-09-14T12:00:00.000Z",
+    "file": "update_v2.10.1.zip",
+    "size": "0.28 MB"
+  },
   "releaseNotes": [
     "🌟 [VideoSub AI Studio v1.0.0 - BẢN PHÁT HÀNH CHÍNH THỨC TOÀN DIỆN]: Bản phát hành chính thức hoàn thiện tối đa, vận hành độc lập, siêu mượt và ổn định lâu dài.",
+    "👑 [Quản Trị Viên: Tự Động Hiển Thị Toàn Bộ Phiên Bản GitHub]: Menu cấp quyền và giới hạn phiên bản tối đa cho khách tự động kết nối và đồng bộ toàn bộ danh mục từ GitHub Releases, Admin tự do chọn bất kỳ phiên bản nào cho từng máy khách.",
+    "✨ [Phông Che Mờ Bán Trong Suốt Tự Nhiên]: Phông che mờ xóa sạch 100% chữ gốc nhưng vẫn giữ độ trong suốt tự nhiên nhìn rõ bối cảnh video phía sau, tích hợp thanh trượt tùy biến độ đậm nhạt linh hoạt.",
+    "🎯 [Vietsub Nằm Ngay Chính Giữa Phông Mờ 100%]: Cả khi xem trước trong Studio lẫn khi xuất file video bằng FFmpeg, câu phụ đề Vietsub luôn được căn chuẩn xác tuyệt đối vào ngay chính giữa phông che mờ.",
     "📊 [Theo Dõi & Cảnh Báo % Dung Lượng Từng API Key]: Quản lý chi tiết từng Gemini API Key với thanh tiến trình % trực quan, tự động nhận diện và cảnh báo đỏ khi hết hạn mức (0% / 429 Quota Exceeded), hỗ trợ nút Reset 100% ngày mới.",
-    "✨ [Khôi Phục Khung Mờ Che Chữ Gốc Chuẩn v2.8.0]: Khung mờ nền đen đục 75% che phủ kín 100% chữ tiếng Trung/chữ động gốc cả khi xem trước lẫn khi xuất video.",
     "⚡ [Vietsub + Thuyết Minh Khớp Chuẩn 100%]: Giọng đọc AI cất lên tức thì đúng lúc Vietsub hiển thị và dứt khoát kết thúc trước/đúng khi Vietsub biến mất, triệt tiêu hoàn toàn hiện tượng đọc chậm trễ tích lũy.",
     "🔊 [Xuất Video Chuẩn Âm Lượng Studio]: Tối ưu hóa bộ hòa âm Ducking đa kênh và khuếch đại âm lượng, giọng đọc xuất ra to rõ vang đều 100% như lúc nghe trong Studio.",
     "🌐 [Khắc Phục Triệt Để Lỗi Treo Không Load Được Trang]: Hỗ trợ Dual-Stack IPv4/IPv6, triệt tiêu hoàn toàn độ trễ localhost trên Windows 10/11, tự động dọn dẹp cache.",
     "🧹 [Dọn Rác Bộ Nhớ Đệm 1-Chạm & Tối Ưu RAM]: Quét và xóa sạch các file tạm (.mp3 vụn, wav cũ) an toàn 100%, giải phóng RAM giúp máy tính luôn nhẹ nhàng.",
     "🔍 [Tìm Kiếm & Thay Thế Phụ Đề Hàng Loạt (Find & Replace)]: Đổi tên nhân vật hoặc từ khóa trên toàn bộ hàng trăm câu phụ đề chỉ trong 1 giây.",
     "⌨️ [Bộ Phím Tắt Biên Tập Pro]: Hỗ trợ Ctrl + S lưu nhanh tức thì, phím Tab di chuyển liên tục giữa các ô phụ đề, Ctrl + Enter nghe thử câu đang chọn."
-  ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v1.0.0/latest_ota_package.zip"
+  ]
 }
