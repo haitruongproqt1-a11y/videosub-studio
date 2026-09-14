@@ -1,14 +1,15 @@
 {
-  "version": "2.10.0",
+  "version": "2.10.1",
   "buildDate": "2026-09-14",
   "packageSize": "0.28 MB (Gói siêu nhẹ)",
   "requireVipForUpdates": false,
   "releaseNotes": [
-    "🧹 [Dọn Rác Bộ Nhớ Đệm 1-Chạm & Tối Ưu RAM]: Quét và xóa sạch các file tạm (.mp3 vụn, wav cũ) an toàn 100%, tự động giải phóng RAM giúp máy tính luôn chạy siêu nhanh và nhẹ nhàng.",
+    "⚡ [Khôi Phục Tốc Độ Thuyết Minh Siêu Tốc Chuẩn v2.8.0]: Tự động co giãn nhịp đọc lên tới 2.1x khớp gọn tuyệt đối theo từng câu phụ đề ngắn/dài, đọc dứt khoát nhanh như các bản trước, không còn bị giật cục hay đọc chậm lê thê.",
+    "🎯 [Phát Thuyết Minh Tức Thì 0ms Độ Trễ]: Bỏ cơ chế nạp đệm toàn bài nặng nề, phát giọng đọc ngay lập tức khi video chạm mốc phụ đề; ngắt giọng đọc tức thì khi tạm dừng hoặc tua video.",
+    "🧹 [Dọn Rác Bộ Nhớ Đệm 1-Chạm & Tối Ưu RAM]: Quét và xóa sạch hàng trăm file âm thanh tạm thời (.mp3 vụn, wav cũ) an toàn 100%, tự động giải phóng RAM giúp máy tính luôn chạy siêu nhanh và nhẹ nhàng.",
     "🔍 [Tìm Kiếm & Thay Thế Phụ Đề Hàng Loạt (Find & Replace)]: Đổi tên nhân vật hoặc từ khóa trên toàn bộ hàng trăm câu phụ đề chỉ trong 1 giây, hỗ trợ phân biệt chữ hoa/thường và điều hướng nhanh.",
     "⌨️ [Bộ Phím Tắt Biên Tập Pro]: Hỗ trợ Ctrl + S lưu nhanh tức thì, phím Tab di chuyển liên tục giữa các ô phụ đề, Ctrl + Enter nghe thử câu đang chọn.",
-    "🛡️ [Tự Động Lưu (Autosave Guard) Khi Xuất Video]: Tự động kiểm tra và lưu ngầm 100% phụ đề trước khi xuất video, đảm bảo video xuất ra luôn có bản dịch mới nhất.",
-    "⚡ [Dọn Sạch Mã Nguồn & Tinh Giản Bộ Cài]: Lược bỏ file mồ côi và tinh gọn log console giúp giảm tải I/O và tối ưu hóa 100% hiệu năng."
+    "🛡️ [Tự Động Lưu (Autosave Guard) Khi Xuất Video]: Tự động kiểm tra và lưu ngầm 100% phụ đề trước khi xuất video, đảm bảo video xuất ra luôn có bản dịch mới nhất."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v2.10.0/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v2.10.1/latest_ota_package.zip"
 }
