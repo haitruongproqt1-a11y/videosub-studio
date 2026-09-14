@@ -1,14 +1,14 @@
 {
-  "version": "2.8.0",
+  "version": "2.9.0",
   "buildDate": "2026-09-14",
   "packageSize": "0.27 MB (Gói siêu nhẹ)",
   "requireVipForUpdates": false,
   "releaseNotes": [
-    "⏱️ [Bộ Đếm Thời Gian Thực & Ước Tính Xong (ETA)]: Đếm thời gian thực tế đã chạy và tự động dự đoán chính xác thời gian hoàn thành (ví dụ: 5s, 30s, 1 phút...) cho mọi tiến trình dịch thuật Vietsub, xuất video render, ghép nối clip.",
-    "⚡ [Tăng Tốc Dịch Thuật Đa Luồng Siêu Nhanh]: Tăng tốc độ dịch AI lên 3–4 luồng song song (tự động mở rộng 4–6 luồng với nhiều API Key), giữ vững 100% ngữ cảnh chuẩn xác tự nhiên, không gián đoạn.",
-    "🎨 [Đóng Dấu Bản Quyền Đa Lớp & Bộ Sticker Che Chữ]: Hỗ trợ chèn đồng thời cả Chữ/Hotline và Logo ảnh PNG/JPG, tùy chỉnh tọa độ tự do X%, Y% đến bất kỳ vị trí nào trên video kèm bộ Sticker bản quyền độc quyền (REVIEW PHIM, BẢN QUYỀN ĐỘC QUYỀN, HOT TREND...).",
-    "🌌 [Tùy Biến Bố Cục & Phông Nền Studio]: 4 Chế độ bố cục giao diện (Cổ điển, Rạp chiếu phim, Phụ đề chuyên sâu, Cân bằng) cùng 5 Theme màu sắc và khả năng tự nạp Hình nền cá nhân kèm điều chỉnh độ mờ (Blur) & độ tối (Dim).",
-    "🚀 [Xuất Video Tốc Độ Cao & Khung Mờ Kính Chuẩn Xác]: Giữ nguyên độ mượt, thanh % chuẩn xác không nhảy giật lùi, âm lượng thuyết minh to rõ vang đều."
+    "💾 [Lưu & Tiếp Tục Checkpoint (Resume)]: Tự động lưu tức thì sau từng đoạn 60s ra file đĩa cứng; nếu mất mạng hoặc chạm hạn mức API giữa chừng, chỉ cần 1 bấm 'Tiếp tục dịch dở dang' để chạy tiếp các đoạn còn thiếu mà không phải làm lại từ đầu.",
+    "🌊 [Biên Tập Dòng Thời Gian Sóng Âm (Waveform Timeline)]: Hiển thị dạng sóng âm thanh trực quan chuẩn DAW/CapCut với các khối phụ đề có tay cầm kéo thả (drag handles) căn chỉnh mốc bắt đầu/kết thúc chuẩn xác đến từng mili-giây, hỗ trợ thu phóng 1x - 8x.",
+    "🎚️ [Cân Bằng Âm Lượng Auto-Ducking Nâng Cao]: Bộ nén Sidechain Compression thế hệ mới (Ratio 8:1, Release 750ms) kết hợp Compand triệt tiêu hiện tượng nhạc nền nổ to bất ngờ làm át tiếng, loại bỏ hoàn toàn hiện tượng giật cục pumping.",
+    "🌟 [Tinh Gọn Danh Mục 4 Giọng Đọc Chủ Lực]: Tối ưu hóa 1-chạm 4 chất giọng đỉnh cao: Nữ Ngọc Huyền (Review Phim), Nam Mạnh Dũng (Kịch Tính), Nữ Hương Giang (Kể Chuyện), Nam Nam Minh (Thời Sự).",
+    "🎨 [Giao Diện Studio Chuyên Nghiệp]: Tinh giản Theme tối ưu hiệu năng và độ tập trung cao nhất cho nhà sáng tạo nội dung."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v2.8.0/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v2.9.0/latest_ota_package.zip"
 }
