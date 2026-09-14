@@ -1,15 +1,14 @@
 {
-  "version": "2.9.1",
+  "version": "2.10.0",
   "buildDate": "2026-09-14",
-  "packageSize": "0.27 MB (Gói siêu nhẹ)",
+  "packageSize": "0.28 MB (Gói siêu nhẹ)",
   "requireVipForUpdates": false,
   "releaseNotes": [
-    "🎙️ [Master PCM Timeline Engine]: Khớp chuẩn xác 100% mốc thời gian phụ đề Vietsub đến từng mili-giây (độ lệch 0.00ms), triệt tiêu hoàn toàn hiện tượng lệch pha tích lũy khi video kéo dài.",
-    "🔄 [Chấm Dứt 100% Lỗi Đọc Lặp Lại]: Cố định ID câu thoại và kiểm soát ranh giới ngắt nghỉ thông minh, tuyệt đối không lặp lại câu cũ khi chuyển cảnh, tạm dừng hay tua nhanh.",
-    "🗣️ [Khử Triệt Để Hiện Tượng Giật Cục & Nuốt Chữ]: Bỏ cắt cụt '-t', giữ trọn vẹn âm cuối tiếng Việt, điều hòa nhịp điệu tự nhiên êm ái (cực đại 1.28x) không bị líu lưỡi sóc chuột.",
-    "⚡ [Khóa Cứng Đồng Bộ Xem Trước Studio]: Dải âm thanh Master Dubbing Track phát trực tiếp khóa cứng 1:1 theo video player, hỗ trợ tua tức thì HTTP 206 không độ trễ.",
-    "⚡ [Tối Ưu Hóa Trực Quan & Triệt Tiêu Giật Lag]: Khôi phục thanh phát timeline gọn gàng, siêu nhẹ, loại bỏ hoàn toàn hiện tượng khựng lag khi lướt video dài.",
-    "💾 [Lưu & Tiếp Tục Checkpoint (Resume)]: Tự động lưu tiến trình dịch video dài, tiếp tục dịch ngay khi có mạng mà không phải chạy lại từ đầu."
+    "🧹 [Dọn Rác Bộ Nhớ Đệm 1-Chạm & Tối Ưu RAM]: Quét và xóa sạch các file tạm (.mp3 vụn, wav cũ) an toàn 100%, tự động giải phóng RAM giúp máy tính luôn chạy siêu nhanh và nhẹ nhàng.",
+    "🔍 [Tìm Kiếm & Thay Thế Phụ Đề Hàng Loạt (Find & Replace)]: Đổi tên nhân vật hoặc từ khóa trên toàn bộ hàng trăm câu phụ đề chỉ trong 1 giây, hỗ trợ phân biệt chữ hoa/thường và điều hướng nhanh.",
+    "⌨️ [Bộ Phím Tắt Biên Tập Pro]: Hỗ trợ Ctrl + S lưu nhanh tức thì, phím Tab di chuyển liên tục giữa các ô phụ đề, Ctrl + Enter nghe thử câu đang chọn.",
+    "🛡️ [Tự Động Lưu (Autosave Guard) Khi Xuất Video]: Tự động kiểm tra và lưu ngầm 100% phụ đề trước khi xuất video, đảm bảo video xuất ra luôn có bản dịch mới nhất.",
+    "⚡ [Dọn Sạch Mã Nguồn & Tinh Giản Bộ Cài]: Lược bỏ file mồ côi và tinh gọn log console giúp giảm tải I/O và tối ưu hóa 100% hiệu năng."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v2.9.1/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v2.10.0/latest_ota_package.zip"
 }
