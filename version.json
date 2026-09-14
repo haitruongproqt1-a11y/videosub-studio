@@ -1,22 +1,18 @@
 {
-  "currentVersion": "2.10.1",
+  "version": "1.0.0",
   "buildDate": "2026-09-14",
-  "channel": "stable",
-  "updateServerUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio",
+  "packageSize": "0.28 MB (Gói siêu nhẹ)",
   "requireVipForUpdates": false,
-  "previousBackup": {
-    "version": "2.10.0",
-    "date": "2026-09-14T09:10:00.000Z",
-    "file": "update_v2.10.0.zip",
-    "size": "0.28 MB"
-  },
   "releaseNotes": [
+    "🌟 [VideoSub AI Studio v1.0.0 - BẢN PHÁT HÀNH CHÍNH THỨC TOÀN DIỆN]: Bản phát hành chính thức đạt độ hoàn thiện cao nhất, siêu ổn định, mượt mà và tin cậy tuyệt đối.",
     "🌐 [Khắc Phục Triệt Để Lỗi Treo Không Load Được Trang]: Hỗ trợ Dual-Stack IPv4/IPv6, triệt tiêu hoàn toàn độ trễ 2s của localhost trên Windows 10/11, tự động dọn sạch Service Worker và bộ nhớ đệm cũ, đảm bảo ứng dụng luôn nạp tức thì trong 10ms.",
     "⚡ [Khôi Phục Tốc Độ Thuyết Minh Siêu Tốc Chuẩn v2.8.0]: Tự động co giãn nhịp đọc lên tới 2.1x khớp gọn tuyệt đối theo từng câu phụ đề ngắn/dài, đọc dứt khoát nhanh như các bản trước, không còn bị giật cục hay đọc chậm lê thê.",
     "🎯 [Phát Thuyết Minh Tức Thì 0ms Độ Trễ]: Bỏ cơ chế nạp đệm toàn bài nặng nề, phát giọng đọc ngay lập tức khi video chạm mốc phụ đề; ngắt giọng đọc tức thì khi tạm dừng hoặc tua video.",
-    "🧹 [Dọn Rác Bộ Nhớ Đệm 1-Chạm & Tối Ưu RAM]: Quét và xóa sạch hàng trăm file âm thanh tạm thời (.mp3 vụn, wav cũ) an toàn 100%, tự động giải phóng RAM giúp máy tính luôn chạy siêu nhanh và nhẹ nhàng.",
+    "🧹 [Dọn Rác Bộ Nhớ Đệm 1-Chạm & Tối Ưu RAM]: Quét và xóa sạch các file tạm (.mp3 vụn, wav cũ) an toàn 100%, tự động giải phóng RAM giúp máy tính luôn chạy siêu nhanh và nhẹ nhàng.",
     "🔍 [Tìm Kiếm & Thay Thế Phụ Đề Hàng Loạt (Find & Replace)]: Đổi tên nhân vật hoặc từ khóa trên toàn bộ hàng trăm câu phụ đề chỉ trong 1 giây, hỗ trợ phân biệt chữ hoa/thường và điều hướng nhanh.",
     "⌨️ [Bộ Phím Tắt Biên Tập Pro]: Hỗ trợ Ctrl + S lưu nhanh tức thì, phím Tab di chuyển liên tục giữa các ô phụ đề, Ctrl + Enter nghe thử câu đang chọn.",
-    "🛡️ [Tự Động Lưu (Autosave Guard) Khi Xuất Video]: Tự động kiểm tra và lưu ngầm 100% phụ đề trước khi xuất video, đảm bảo video xuất ra luôn có bản dịch mới nhất."
-  ]
+    "🛡️ [Tự Động Lưu (Autosave Guard) Khi Xuất Video]: Tự động kiểm tra và lưu ngầm 100% phụ đề trước khi xuất video, đảm bảo video xuất ra luôn có bản dịch mới nhất.",
+    "🌊 [Biên Tập Dòng Thời Gian Sóng Âm (Waveform Timeline) & Lưu Checkpoint]: Biên tập dòng thời gian sóng âm trực quan và hỗ trợ khôi phục tiến trình dịch dở dang không lo gián đoạn."
+  ],
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v1.0.0/latest_ota_package.zip"
 }
