@@ -1,20 +1,16 @@
 {
   "version": "1.0.0",
-  "buildDate": "2026-09-14",
-  "packageSize": "0.28 MB (Gói siêu nhẹ)",
+  "buildDate": "2026-09-15",
+  "packageSize": "0.40 MB (Gói bảo mật siêu nhẹ)",
   "requireVipForUpdates": false,
   "releaseNotes": [
-    "🌟 [VideoSub AI Studio v1.0.0 - BẢN PHÁT HÀNH CHÍNH THỨC TOÀN DIỆN]: Bản phát hành chính thức hoàn thiện tối đa, vận hành độc lập, siêu mượt và ổn định lâu dài.",
-    "⚡ [Cập Nhật Đồng Bộ Tức Thì 0ms]: Xuất hiện phụ đề, sửa chữ hoặc bấm chọn câu bất kỳ là giọng đọc thuyết minh cập nhật ngay lập tức 0ms, xuất file Vietsub khớp giọng đọc chuẩn xác 100% không độ trễ tích lũy.",
+    "🌟 [VideoSub AI Studio v1.0.0 - BẢN PHÁT HÀNH CHÍNH THỨC TOÀN DIỆN]: Bản phát hành chính thức đạt độ hoàn thiện tối ưu, vận hành độc lập, siêu mượt và bảo mật tuyệt đối.",
+    "🛡️ [Bảo Mật Mã Nguồn Chống Bẻ Khóa & Trộm Code]: Toàn bộ lõi ứng dụng được mã hóa ma trận obfuscation đa tầng, tích hợp chốt chặn chống lùi giờ (Anti-Clock Rollback) và cơ chế tự bảo vệ (Self-defending).",
+    "⚡ [Khôi Phục Vietsub + Thuyết Minh Song Song Chuẩn v2.8.0]: Phụ đề xuất hiện là giọng đọc AI vang lên tức thì 0ms, tự động co giãn nhịp đọc khớp đúng thời lượng phụ đề, triệt tiêu hoàn toàn độ trễ tích lũy cả khi xem lẫn khi xuất video.",
+    "⏱️ [Quản Lý Thời Gian Key Chi Tiết Từng Máy]: Bảng quản trị hiển thị chính xác ngày giờ cấp key và đếm lùi thời gian còn lại chi tiết (ngày, giờ, phút) với nhãn cảnh báo hết hạn trực quan.",
+    "👑 [Khóa Quyền Quản Trị Hệ Thống Tuyệt Đối]: Ẩn hoàn toàn 100% mục Đăng Nhập Quản Trị Viên trên tất cả máy khách, CHỈ DUY NHẤT hiển thị trên máy chủ Admin chính chủ.",
     "📊 [Bộ Đếm Chi Tiết & Tự Động Reset % API Key Theo Ngày]: Hiển thị chính xác số lượt thực tế của từng API key (VD: 12/1.500 lượt), tự động đếm và reset 100% khi bước sang ngày mới.",
-    "👑 [Quản Trị Viên: Tự Động Hiển Thị Toàn Bộ Phiên Bản GitHub]: Menu cấp quyền và giới hạn phiên bản tối đa cho khách tự động kết nối và đồng bộ toàn bộ danh mục từ GitHub Releases, Admin tự do chọn bất kỳ phiên bản nào cho từng máy khách.",
-    "✨ [Phông Che Mờ Bán Trong Suốt Tự Nhiên]: Phông che mờ xóa sạch 100% chữ gốc nhưng vẫn giữ độ trong suốt tự nhiên nhìn rõ bối cảnh video phía sau, tích hợp thanh trượt tùy biến độ đậm nhạt linh hoạt.",
-    "🎯 [Vietsub Nằm Ngay Chính Giữa Phông Mờ 100%]: Cả khi xem trước trong Studio lẫn khi xuất file video bằng FFmpeg, câu phụ đề Vietsub luôn được căn chuẩn xác tuyệt đối vào ngay chính giữa phông che mờ.",
-    "🔊 [Xuất Video Chuẩn Âm Lượng Studio]: Tối ưu hóa bộ hòa âm Ducking đa kênh và khuếch đại âm lượng, giọng đọc xuất ra to rõ vang đều 100% như lúc nghe trong Studio.",
-    "🌐 [Khắc Phục Triệt Để Lỗi Treo Không Load Được Trang]: Hỗ trợ Dual-Stack IPv4/IPv6, triệt tiêu hoàn toàn độ trễ localhost trên Windows 10/11, tự động dọn dẹp cache.",
-    "🧹 [Dọn Rác Bộ Nhớ Đệm 1-Chạm & Tối Ưu RAM]: Quét và xóa sạch các file tạm (.mp3 vụn, wav cũ) an toàn 100%, giải phóng RAM giúp máy tính luôn nhẹ nhàng.",
-    "🔍 [Tìm Kiếm & Thay Thế Phụ Đề Hàng Loạt (Find & Replace)]: Đổi tên nhân vật hoặc từ khóa trên toàn bộ hàng trăm câu phụ đề chỉ trong 1 giây.",
-    "⌨️ [Bộ Phím Tắt Biên Tập Pro]: Hỗ trợ Ctrl + S lưu nhanh tức thì, phím Tab di chuyển liên tục giữa các ô phụ đề, Ctrl + Enter nghe thử câu đang chọn."
+    "✨ [Phông Che Mờ Bán Trong Suốt & Căn Giữa Vietsub 100%]: Che kín chữ gốc nhưng vẫn thấy bối cảnh video tự nhiên, chữ Vietsub căn chính giữa phông mờ cả trong Studio lẫn khi xuất video bằng FFmpeg."
   ],
   "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v1.0.0/latest_ota_package.zip"
 }
