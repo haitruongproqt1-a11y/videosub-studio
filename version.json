@@ -1,15 +1,16 @@
 {
-  "version": "1.0.3",
-  "currentVersion": "1.0.3",
-  "buildDate": "2026-09-16",
-  "packageSize": "0.41 MB (Gói bảo mật siêu nhẹ)",
+  "version": "3.0",
+  "currentVersion": "3.0",
+  "buildDate": "2026-09-17",
+  "packageSize": "0.42 MB (Gói bảo mật siêu nhẹ)",
   "updateServerUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio",
   "requireVipForUpdates": false,
   "releaseNotes": [
-    "⚡ [Khắc Phục Triệt Để Độ Trễ Lồng Tiếng - 0ms Delay]: Phụ đề dịch tới đâu lập tức có giọng đọc lồng tiếng tới đó trên ổ đĩa SSD, không còn phải chờ đợi 15-20 phút.",
-    "🎯 [Bấm Nghe Ngay Lập Tức Bất Kỳ Câu Nào]: Cho phép người dùng click vào bất kỳ câu phụ đề nào (kể cả câu mới nhất ở cuối video dài 1-8 tiếng) để nghe giọng đọc chuẩn xác tức thời 0ms mà không bị ngắt tiếng.",
-    "🚀 [Cơ Chế Active Window Preloader & Chống Nghẽn Socket]: Tải trước thông minh trong phạm vi câu đang xem và các câu kế tiếp, loại bỏ vòng lặp càn quét 1000 câu gây nghẽn kết nối và chặn IP từ máy chủ Microsoft TTS.",
-    "🛡️ [Bảo Lưu Nguyên Vẹn 100% Tính Năng]: Giữ trọn thuật toán đồng bộ 0ms của bản v2.8.0, tính năng Auto Speed Fitting, chống lùi giờ Anti-Rollback, nền mờ 35% và khóa bản quyền Admin độc quyền."
+    "🚀 [Ẩn Toàn Bộ Clip Lẻ Khi Đã Gộp]: Thư viện tự động gom gọn và chỉ hiển thị 1 video hoàn chỉnh duy nhất sau khi gộp nhiều clip, ẩn hoàn toàn các clip con thành phần giúp thư mục làm việc luôn ngăn nắp.",
+    "⚡ [Tiến Trình Xuất Video Chạy Ngầm 0ms & Khóa Chống Xung Đột]: Nút 'Chạy ngầm & Đóng' kích hoạt ngay huy hiệu nổi trong 0ms. Tích hợp khóa bảo vệ tiến trình (HTTP 409 Conflict Prevention) triệt tiêu hoàn toàn lỗi người dùng bấm đúp xuất video 2 lần đè nhau làm nhảy % sai lệch.",
+    "🎯 [Xuất Video CapCut-Grade Chuẩn 100% Không Mất Tiếng]: Tối ưu hóa GPU NVENC, Intel QSV và libx264. Chuẩn hóa luồng hòa âm 44.1kHz Stereo đa tầng cùng cơ chế Fallback tự động bảo vệ giọng đọc lồng tiếng, đảm bảo video xuất ra luôn có thuyết minh to rõ 100%.",
+    "💾 [Quản Lý Dung Lượng Ổ Đĩa Chi Tiết]: Bổ sung bảng phân tích chi tiết dung lượng ổ đĩa (Video xuất, Video gốc, Audio MP3, TTS Cache, ZIP Sao lưu) kèm nút xem thư mục Explorer và nút xóa giải phóng bộ nhớ an toàn.",
+    "📞 [Cài Đặt & Hiển Thị Hotline Kỹ Thuật Admin]: Tích hợp Hotline / Zalo 0367.722.091 (Hải Trường) trên thanh Header Studio, màn hình Kích hoạt mã máy và Hồ sơ cá nhân với chức năng sao chép và mở nhanh Zalo chat."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v1.0.3/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.0/latest_ota_package.zip"
 }
