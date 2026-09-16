@@ -1,7 +1,9 @@
 {
   "version": "1.0.1",
+  "currentVersion": "1.0.1",
   "buildDate": "2026-09-16",
   "packageSize": "0.41 MB (Gói bảo mật siêu nhẹ)",
+  "updateServerUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio",
   "requireVipForUpdates": false,
   "releaseNotes": [
     "🚀 [Nâng Cấp Hiệu Suất Xuất Video Dài Trên 1 Tiếng - Triệt Tiêu Treo 10%]: Tối ưu hóa toàn diện tiến trình lồng tiếng AI và render FFmpeg cho video dài 1-3 tiếng. Bổ sung cơ chế Timeout & Auto-Retry thông minh chống kẹt kết nối WebSocket, công nghệ Master Silence 0ms không bao giờ bị nghẽn luồng.",
