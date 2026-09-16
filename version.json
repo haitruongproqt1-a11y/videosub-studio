@@ -1,16 +1,12 @@
 {
-  "version": "1.0.0",
-  "buildDate": "2026-09-15",
+  "version": "1.0.1",
+  "buildDate": "2026-09-16",
   "packageSize": "0.41 MB (Gói bảo mật siêu nhẹ)",
   "requireVipForUpdates": false,
   "releaseNotes": [
-    "🌟 [VideoSub AI Studio v1.0.0 - BẢN PHÁT HÀNH CHÍNH THỨC TOÀN DIỆN]: Bản phát hành chính thức đạt độ hoàn thiện tối ưu, vận hành độc lập, siêu mượt và bảo mật tuyệt đối.",
-    "🛡️ [Bảo Mật Mã Nguồn Chống Bẻ Khóa & Trộm Code]: Toàn bộ lõi ứng dụng được mã hóa ma trận obfuscation đa tầng, tích hợp chốt chặn chống lùi giờ (Anti-Clock Rollback) và cơ chế tự bảo vệ (Self-defending).",
-    "⚡ [Khôi Phục Vietsub + Thuyết Minh Song Song Chuẩn v2.8.0]: Phụ đề xuất hiện là giọng đọc AI vang lên tức thì 0ms, tự động co giãn nhịp đọc khớp đúng thời lượng phụ đề, triệt tiêu hoàn toàn độ trễ tích lũy cả khi xem lẫn khi xuất video.",
-    "⏱️ [Quản Lý Thời Gian Key Chi Tiết Từng Máy]: Bảng quản trị hiển thị chính xác ngày giờ cấp key và đếm lùi thời gian còn lại chi tiết (ngày, giờ, phút) với nhãn cảnh báo hết hạn trực quan.",
-    "👑 [Khóa Quyền Quản Trị Hệ Thống Tuyệt Đối]: Ẩn hoàn toàn 100% mục Đăng Nhập Quản Trị Viên trên tất cả máy khách, CHỈ DUY NHẤT hiển thị trên máy chủ Admin chính chủ.",
-    "📊 [Bộ Đếm Chi Tiết & Tự Động Reset % API Key Theo Ngày]: Hiển thị chính xác số lượt thực tế của từng API key (VD: 12/1.500 lượt), tự động đếm và reset 100% khi bước sang ngày mới.",
-    "✨ [Phông Che Mờ Bán Trong Suốt & Căn Giữa Vietsub 100%]: Che kín chữ gốc nhưng vẫn thấy bối cảnh video tự nhiên, chữ Vietsub căn chính giữa phông mờ cả trong Studio lẫn khi xuất video bằng FFmpeg."
+    "🚀 [Nâng Cấp Hiệu Suất Xuất Video Dài Trên 1 Tiếng - Triệt Tiêu Treo 10%]: Tối ưu hóa toàn diện tiến trình lồng tiếng AI và render FFmpeg cho video dài 1-3 tiếng. Bổ sung cơ chế Timeout & Auto-Retry thông minh chống kẹt kết nối WebSocket, công nghệ Master Silence 0ms không bao giờ bị nghẽn luồng.",
+    "🛡️ [Mở Rộng Bộ Đệm Muxing 8192 Packets]: Loại bỏ hoàn toàn lỗi tràn bộ đệm khi ghép hàng nghìn câu phụ đề trên video thời lượng lớn.",
+    "⚡ [Bảo Lưu 100% Bộ Tính Năng Bản v1.0.0]: Giữ trọn vẹn thuật toán đồng bộ 0ms, chống lùi giờ, làm mờ bán trong suốt 35% và khóa quyền Admin độc quyền."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v1.0.0/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v1.0.1/latest_ota_package.zip"
 }
