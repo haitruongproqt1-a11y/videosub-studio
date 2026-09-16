@@ -1,15 +1,15 @@
 {
-  "version": "1.0.2",
-  "currentVersion": "1.0.2",
+  "version": "1.0.3",
+  "currentVersion": "1.0.3",
   "buildDate": "2026-09-16",
   "packageSize": "0.41 MB (Gói bảo mật siêu nhẹ)",
   "updateServerUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio",
   "requireVipForUpdates": false,
   "releaseNotes": [
-    "⚡ [Đồng Bộ Tỉ Lệ % & Thời Gian Chuẩn 100% Toàn Bộ Tác Vụ]: Chuẩn hóa và đồng bộ tuyệt đối 100% giữa số % hiển thị và thông báo chi tiết trong mọi khâu: Gộp clip, Dịch AI, Ghép Vietsub và Xuất Video.",
-    "🎬 [Triệt Tiêu Hoàn Toàn Hiện Tượng Kẹt 88% Khi Gộp Clip]: Loại bỏ chốt chặn giới hạn 88%, tiến trình gộp video chạy mượt mà từ 0% đến 99% kèm thông báo đóng gói hoàn tất (FastStart) trực quan trước khi cán mốc 100%.",
-    "🧠 [Tiến Trình Dịch AI Thời Gian Thực Realtime]: Tiến trình dịch tự động tăng tỷ lệ % và cập nhật thời gian đếm lùi sau từng đoạn hoàn thành (mỗi 2-3s), không còn hiện tượng đứng số hoặc nhảy vọt đột ngột.",
-    "🛡️ [Bảo Lưu Nguyên Vẹn 100% Tính Năng]: Giữ trọn thuật toán đồng bộ 0ms, công nghệ chống lùi giờ Anti-Rollback, Master Silence 0ms, làm mờ 35% và khóa quyền Admin độc quyền."
+    "⚡ [Khắc Phục Triệt Để Độ Trễ Lồng Tiếng - 0ms Delay]: Phụ đề dịch tới đâu lập tức có giọng đọc lồng tiếng tới đó trên ổ đĩa SSD, không còn phải chờ đợi 15-20 phút.",
+    "🎯 [Bấm Nghe Ngay Lập Tức Bất Kỳ Câu Nào]: Cho phép người dùng click vào bất kỳ câu phụ đề nào (kể cả câu mới nhất ở cuối video dài 1-8 tiếng) để nghe giọng đọc chuẩn xác tức thời 0ms mà không bị ngắt tiếng.",
+    "🚀 [Cơ Chế Active Window Preloader & Chống Nghẽn Socket]: Tải trước thông minh trong phạm vi câu đang xem và các câu kế tiếp, loại bỏ vòng lặp càn quét 1000 câu gây nghẽn kết nối và chặn IP từ máy chủ Microsoft TTS.",
+    "🛡️ [Bảo Lưu Nguyên Vẹn 100% Tính Năng]: Giữ trọn thuật toán đồng bộ 0ms của bản v2.8.0, tính năng Auto Speed Fitting, chống lùi giờ Anti-Rollback, nền mờ 35% và khóa bản quyền Admin độc quyền."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v1.0.2/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v1.0.3/latest_ota_package.zip"
 }
