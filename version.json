@@ -1,16 +1,17 @@
 {
-  "version": "3.1",
-  "currentVersion": "3.1",
+  "version": "3.2",
+  "currentVersion": "3.2",
   "buildDate": "2026-09-17",
-  "packageSize": "17.24 MB (Gói OTA kèm Engine yt-dlp & Frontend mới)",
+  "packageSize": "17.24 MB (Gói OTA Sample-Accurate TTS & Multi-Platform Engine)",
   "updateServerUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio",
   "requireVipForUpdates": false,
   "releaseNotes": [
-    "🌐 [Tải & Nạp Video Trực Tuyến Bằng Link]: Hỗ trợ dán đường link Bilibili (BV / b23.tv), Douyin / TikTok Trung Quốc (v.douyin.com không logo watermark), TikTok, YouTube vào thẳng Studio mà không cần phần mềm thứ 3.",
-    "⚡ [2 Chế Độ Nạp Linh Hoạt - Tiết Kiệm 90% Ổ Cứng]: Hỗ trợ 'Chế độ Siêu Nhẹ' (tải video nén nhẹ xem trước & trích xuất âm thanh AI dịch, tiết kiệm 90% dung lượng ổ đĩa) và 'Chế độ Đầy Đủ' (tải video gốc Full HD không watermark về máy).",
-    "🔍 [Phân Tích Link Thông Minh & Tự Động Nhận Diện Ngôn Ngữ]: Tự bóc tách link sạch từ đoạn văn bản chia sẻ trên điện thoại, hiển thị thumbnail, tiêu đề, thời lượng và tự chuyển ngôn ngữ nguồn sang Tiếng Trung khi phát hiện Douyin/Bilibili.",
-    "🛑 [Theo Dõi & Kiểm Soát Tiến Trình Tải Trực Quan]: Hiển thị thanh tiến trình % chi tiết, tốc độ tải MB/s, thời gian còn lại (ETA) kèm nút hủy tải nhanh chóng.",
-    "🚀 [Giữ Nguyên Toàn Bộ Tính Năng Studio v3.0]: Ẩn toàn bộ clip lẻ khi đã gộp, widget chạy ngầm 0ms chống bấm xuất trùng lặp, chuẩn xuất CapCut-Grade 100% không mất tiếng và công cụ quản lý dung lượng ổ đĩa."
+    "🎙️ [Lồng Tiếng AI Khớp 100% Timeline Phụ Đề]: Nâng cấp kiến trúc Sample-Accurate PCM Timeline Engine, triệt tiêu 100% độ trôi lệch tích lũy, neo mốc bắt đầu của từng câu chuẩn xác 0ms.",
+    "🎧 [Tốc Độ Đọc Tự Nhiên, Không Méo Tiếng]: Thuật toán Natural Tempo Auto-Fitting giới hạn tốc độ tối đa 1.32x, xóa bỏ hoàn toàn hiện tượng méo tiếng hoạt hình (chipmunk) lúc nhanh lúc chậm.",
+    "🎬 [Khắc Phục Tải Video Bilibili Dài]: Sửa triệt để lỗi kẹt ở 0% khi tải video dài Bilibili (như BV1Kvtt6cEsk 1 tiếng), hiển thị % tiến trình, tốc độ tải MB/s và ETA chính xác.",
+    "⚡ [Hỗ Trợ Tải Trực Tiếp TikTok Không Logo & YouTube]: Tích hợp cơ chế Direct Stream Engine tải video TikTok không watermark và YouTube tốc độ cao.",
+    "🛡️ [Thông Báo Thông Minh Cho Douyin]: Nhận diện và thông báo rõ ràng cơ chế bảo vệ tài khoản của Douyin, hướng dẫn người dùng tải video hoặc nạp link từ các nền tảng khác.",
+    "🚀 [Bảo Lưu 100% Tính Năng Hệ Thống]: Giữ nguyên toàn bộ tính năng Studio, quản lý gộp clip, widget chạy ngầm 0ms chống bấm trùng lặp và hòa âm chuẩn rạp."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.1/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.2/latest_ota_package.zip"
 }
