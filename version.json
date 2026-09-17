@@ -1,16 +1,16 @@
 {
-  "version": "3.0",
-  "currentVersion": "3.0",
+  "version": "3.1",
+  "currentVersion": "3.1",
   "buildDate": "2026-09-17",
-  "packageSize": "0.42 MB (Gói bảo mật siêu nhẹ)",
+  "packageSize": "17.24 MB (Gói OTA kèm Engine yt-dlp & Frontend mới)",
   "updateServerUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio",
   "requireVipForUpdates": false,
   "releaseNotes": [
-    "🚀 [Ẩn Toàn Bộ Clip Lẻ Khi Đã Gộp]: Thư viện tự động gom gọn và chỉ hiển thị 1 video hoàn chỉnh duy nhất sau khi gộp nhiều clip, ẩn hoàn toàn các clip con thành phần giúp thư mục làm việc luôn ngăn nắp.",
-    "⚡ [Tiến Trình Xuất Video Chạy Ngầm 0ms & Khóa Chống Xung Đột]: Nút 'Chạy ngầm & Đóng' kích hoạt ngay huy hiệu nổi trong 0ms. Tích hợp khóa bảo vệ tiến trình (HTTP 409 Conflict Prevention) triệt tiêu hoàn toàn lỗi người dùng bấm đúp xuất video 2 lần đè nhau làm nhảy % sai lệch.",
-    "🎯 [Xuất Video CapCut-Grade Chuẩn 100% Không Mất Tiếng]: Tối ưu hóa GPU NVENC, Intel QSV và libx264. Chuẩn hóa luồng hòa âm 44.1kHz Stereo đa tầng cùng cơ chế Fallback tự động bảo vệ giọng đọc lồng tiếng, đảm bảo video xuất ra luôn có thuyết minh to rõ 100%.",
-    "💾 [Quản Lý Dung Lượng Ổ Đĩa Chi Tiết]: Bổ sung bảng phân tích chi tiết dung lượng ổ đĩa (Video xuất, Video gốc, Audio MP3, TTS Cache, ZIP Sao lưu) kèm nút xem thư mục Explorer và nút xóa giải phóng bộ nhớ an toàn.",
-    "📞 [Cài Đặt & Hiển Thị Hotline Kỹ Thuật Admin]: Tích hợp Hotline / Zalo 0367.722.091 (Hải Trường) trên thanh Header Studio, màn hình Kích hoạt mã máy và Hồ sơ cá nhân với chức năng sao chép và mở nhanh Zalo chat."
+    "🌐 [Tải & Nạp Video Trực Tuyến Bằng Link]: Hỗ trợ dán đường link Bilibili (BV / b23.tv), Douyin / TikTok Trung Quốc (v.douyin.com không logo watermark), TikTok, YouTube vào thẳng Studio mà không cần phần mềm thứ 3.",
+    "⚡ [2 Chế Độ Nạp Linh Hoạt - Tiết Kiệm 90% Ổ Cứng]: Hỗ trợ 'Chế độ Siêu Nhẹ' (tải video nén nhẹ xem trước & trích xuất âm thanh AI dịch, tiết kiệm 90% dung lượng ổ đĩa) và 'Chế độ Đầy Đủ' (tải video gốc Full HD không watermark về máy).",
+    "🔍 [Phân Tích Link Thông Minh & Tự Động Nhận Diện Ngôn Ngữ]: Tự bóc tách link sạch từ đoạn văn bản chia sẻ trên điện thoại, hiển thị thumbnail, tiêu đề, thời lượng và tự chuyển ngôn ngữ nguồn sang Tiếng Trung khi phát hiện Douyin/Bilibili.",
+    "🛑 [Theo Dõi & Kiểm Soát Tiến Trình Tải Trực Quan]: Hiển thị thanh tiến trình % chi tiết, tốc độ tải MB/s, thời gian còn lại (ETA) kèm nút hủy tải nhanh chóng.",
+    "🚀 [Giữ Nguyên Toàn Bộ Tính Năng Studio v3.0]: Ẩn toàn bộ clip lẻ khi đã gộp, widget chạy ngầm 0ms chống bấm xuất trùng lặp, chuẩn xuất CapCut-Grade 100% không mất tiếng và công cụ quản lý dung lượng ổ đĩa."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.0/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.1/latest_ota_package.zip"
 }
