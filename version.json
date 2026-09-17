@@ -1,17 +1,17 @@
 {
-  "version": "3.2",
-  "currentVersion": "3.2",
+  "version": "3.3",
+  "currentVersion": "3.3",
   "buildDate": "2026-09-17",
-  "packageSize": "17.24 MB (Gói OTA Sample-Accurate TTS & Multi-Platform Engine)",
+  "packageSize": "17.25 MB (Bản Nâng Cấp Tối Ưu Toàn Diện v3.3 Đẳng Cấp Nhất)",
   "updateServerUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio",
   "requireVipForUpdates": false,
   "releaseNotes": [
-    "🎙️ [Lồng Tiếng AI Khớp 100% Timeline Phụ Đề]: Nâng cấp kiến trúc Sample-Accurate PCM Timeline Engine, triệt tiêu 100% độ trôi lệch tích lũy, neo mốc bắt đầu của từng câu chuẩn xác 0ms.",
-    "🎧 [Tốc Độ Đọc Tự Nhiên, Không Méo Tiếng]: Thuật toán Natural Tempo Auto-Fitting giới hạn tốc độ tối đa 1.32x, xóa bỏ hoàn toàn hiện tượng méo tiếng hoạt hình (chipmunk) lúc nhanh lúc chậm.",
-    "🎬 [Khắc Phục Tải Video Bilibili Dài]: Sửa triệt để lỗi kẹt ở 0% khi tải video dài Bilibili (như BV1Kvtt6cEsk 1 tiếng), hiển thị % tiến trình, tốc độ tải MB/s và ETA chính xác.",
-    "⚡ [Hỗ Trợ Tải Trực Tiếp TikTok Không Logo & YouTube]: Tích hợp cơ chế Direct Stream Engine tải video TikTok không watermark và YouTube tốc độ cao.",
-    "🛡️ [Thông Báo Thông Minh Cho Douyin]: Nhận diện và thông báo rõ ràng cơ chế bảo vệ tài khoản của Douyin, hướng dẫn người dùng tải video hoặc nạp link từ các nền tảng khác.",
-    "🚀 [Bảo Lưu 100% Tính Năng Hệ Thống]: Giữ nguyên toàn bộ tính năng Studio, quản lý gộp clip, widget chạy ngầm 0ms chống bấm trùng lặp và hòa âm chuẩn rạp."
+    "🚀 [Phiên Bản v3.3 Đẳng Cấp Nhất]: Rà soát 360° toàn bộ hệ thống, tối ưu hóa hiệu năng tối đa, không giật lag, không treo máy, tốc độ xử lý nhanh và mượt mà nhất.",
+    "🛡️ [Hủy Tác Vụ Triệt Để & Chống Zombie Process]: Cơ chế Clean Process Tree Termination đóng dứt điểm các tiến trình con FFmpeg/yt-dlp khi người dùng hủy lệnh, loại bỏ 100% hiện tượng rơi vào CPU re-encode ngầm.",
+    "⚡ [Tối Ưu Luồng Stream & Chống Tràn RAM]: Tích hợp bộ kiểm soát Backpressure (writeStreamAsync) cho bộ tạo âm thanh PCM, triệt tiêu hiện tượng dồn buffer và spike bộ nhớ RAM khi ghép video dài.",
+    "🧹 [Dọn Rác 1-Chạm Toàn Diện 100%]: Mở rộng bộ quét rác tự động dọn sạch mọi file tạm (chunk đa luồng, audio mix, split parts, temp ASS) mà không ảnh hưởng tới video thành phẩm.",
+    "🎬 [Bảo Toàn Chuỗi Ghép Video Đặc Biệt]: Chuẩn hóa đường dẫn ký tự đặc biệt và dấu nháy đơn trong Concat Demuxer, bảo đảm gộp clip không bao giờ lỗi cú pháp.",
+    "🔒 [Bảo Toàn 100% Tính Năng Cốt Lõi]: Giữ nguyên vẹn toàn bộ tính năng Studio, Lồng Tiếng Khớp 100% Timeline, Nhận diện Gemini/OpenAI đa luồng bền bỉ."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.2/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.3/latest_ota_package.zip"
 }
