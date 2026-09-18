@@ -1,18 +1,16 @@
 {
-  "version": "3.4",
-  "currentVersion": "3.4",
+  "version": "3.5",
+  "currentVersion": "3.5",
   "buildDate": "2026-09-18",
-  "packageSize": "17.25 MB (Bản Nâng Cấp Luồng Xuất Video Siêu Nhanh v3.4)",
+  "packageSize": "17.15 MB (Bản Khắc Phục Triệt Để Khớp Giọng Đọc AI & Timeline v3.5)",
   "updateServerUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio",
   "requireVipForUpdates": false,
   "releaseNotes": [
-    "⚡ [Luồng Xuất Video Siêu Nhanh - Super-Fast Pipeline]: Đột phá tốc độ xuất video Vietsub + Lồng tiếng AI, nhanh gấp 2 - 3 lần so với phiên bản trước, tối ưu hóa toàn diện tài nguyên máy tính.",
-    "🚀 [Dynamic Worker Queue TTS]: Chuyển đổi toàn diện cơ chế sinh giọng đọc AI sang hàng đợi đa luồng động (Active Worker Pool 6–8 workers song song liên tục), triệt tiêu hoàn toàn thời gian chờ chết giữa các câu thoại.",
-    "🎯 [Tái Sử Dụng Audio Cache Tức Thì 0ms]: Tự động nhận diện và tái sử dụng các câu thoại đã nghe thử hoặc đã dịch trong Studio, bỏ qua 100% việc gọi mạng và ghép âm tức thì.",
-    "🎬 [FFmpeg Single-Pass Encoding Đỉnh Cao]: Hợp nhất bộ lọc Video (Crop, Blur Mask, 9:16, Subtitles ASS) và Bộ lọc Hòa âm Sidechain Ducking vào 1 lệnh xử lý RAM/AVFilter duy nhất; loại bỏ hoàn toàn việc tạo và đọc file mix_*.mp3 trung gian ra đĩa.",
-    "🛡️ [Tăng Tốc Phần Cứng Đa Tầng (GPU Boost)]: Tự động nhận diện card đồ họa NVIDIA (NVENC), Intel (QSV), AMD (AMF) để kích hoạt phần cứng xuất video tốc độ 300 - 500 FPS, tự động fallback an toàn sang CPU nếu gặp sự cố.",
-    "📊 [Tiến Trình Thời Gian Thực Non-Blocking]: Hiển thị tiến độ trực quan từng câu thoại ('Đã xong X/Y câu...') và từng khung hình video, phản hồi tức thì các thao tác Hủy/Tạm dừng/Chạy ngầm.",
-    "🔒 [Nguyên Tắc Zero-Regression]: Bảo toàn 100% độ chuẩn xác Sample-Accurate PCM timeline, chuẩn âm lượng Studio, xuất tiếng gốc và tải SRT rời hoàn hảo."
+    "🎙️ [Khắc Phục 100% Khớp Giọng Đọc AI & Timeline]: Triệt tiêu dứt điểm hiện tượng lệch mốc thời gian, trôi dạt âm thanh. Giọng đọc khớp chính xác từng mili-giây với từng khung phụ đề xuất hiện trên video.",
+    "🛡️ [Zero-Silent-Drop Engine & Multi-Tier Retry]: Bảo đảm 100% câu thoại đều được đọc đủ, tích hợp cơ chế tự động thử lại đa tầng và giọng đọc dự phòng, không bao giờ bỏ sót bất kỳ câu nào.",
+    "🎵 [Natural Tempo Auto-Fitting (Không Cắt Cụt Từ)]: Loại bỏ hoàn toàn việc cưỡng bức cắt âm; tự động điều chỉnh nhịp đọc tự nhiên và bổ sung bộ lọc fade-out 25ms làm êm đuôi câu, triệt tiêu tiếng pop/click giật cụt.",
+    "⚡ [Sample-Accurate PCM Timeline Engine]: Hòa âm đa luồng trực tiếp theo block thời gian tuyệt đối trên RAM, bảo toàn trọn vẹn tốc độ xuất video siêu tốc kết hợp GPU Acceleration (NVENC/QSV/AMF).",
+    "🔒 [Bảo Toàn Toàn Diện & Zero-Regression]: Giữ nguyên 100% tính năng xuất video giữ tiếng gốc, tải SRT rời, chuyển đổi giọng đọc đa nhân vật và giao diện Studio mượt mà."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.4/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.5/latest_ota_package.zip"
 }
