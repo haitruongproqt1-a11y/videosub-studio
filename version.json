@@ -1,16 +1,16 @@
 {
-  "version": "3.5",
-  "currentVersion": "3.5",
-  "buildDate": "2026-09-18",
-  "packageSize": "17.15 MB (Bản Khắc Phục Triệt Để Khớp Giọng Đọc AI & Timeline v3.5)",
+  "version": "3.6",
+  "currentVersion": "3.6",
+  "buildDate": "2026-09-19",
+  "packageSize": "17.2 MB (Bản Vietsub Tới Đâu Lồng Tiếng Tới Đó 0ms & Live Dual-Track Streaming v3.6)",
   "updateServerUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio",
   "requireVipForUpdates": false,
   "releaseNotes": [
-    "🎙️ [Khắc Phục 100% Khớp Giọng Đọc AI & Timeline]: Triệt tiêu dứt điểm hiện tượng lệch mốc thời gian, trôi dạt âm thanh. Giọng đọc khớp chính xác từng mili-giây với từng khung phụ đề xuất hiện trên video.",
-    "🛡️ [Zero-Silent-Drop Engine & Multi-Tier Retry]: Bảo đảm 100% câu thoại đều được đọc đủ, tích hợp cơ chế tự động thử lại đa tầng và giọng đọc dự phòng, không bao giờ bỏ sót bất kỳ câu nào.",
-    "🎵 [Natural Tempo Auto-Fitting (Không Cắt Cụt Từ)]: Loại bỏ hoàn toàn việc cưỡng bức cắt âm; tự động điều chỉnh nhịp đọc tự nhiên và bổ sung bộ lọc fade-out 25ms làm êm đuôi câu, triệt tiêu tiếng pop/click giật cụt.",
-    "⚡ [Sample-Accurate PCM Timeline Engine]: Hòa âm đa luồng trực tiếp theo block thời gian tuyệt đối trên RAM, bảo toàn trọn vẹn tốc độ xuất video siêu tốc kết hợp GPU Acceleration (NVENC/QSV/AMF).",
-    "🔒 [Bảo Toàn Toàn Diện & Zero-Regression]: Giữ nguyên 100% tính năng xuất video giữ tiếng gốc, tải SRT rời, chuyển đổi giọng đọc đa nhân vật và giao diện Studio mượt mà."
+    "⚡ [Vietsub Tới Đâu Lồng Tiếng Tới Đó Độ Trễ 0ms]: Khôi phục và nâng cấp vượt bậc tính năng xem trước tức thời 0ms. Dù tua hoặc bấm đến bất kỳ câu phụ đề nào trên video, giọng đọc thuyết minh AI cất lên ngay lập tức mà không phải chờ tải 30s - 1 phút.",
+    "🚀 [Live Dual-Track Streaming Engine]: Cơ chế stream luồng âm thanh thời gian thực, vừa truyền ngay các gói âm thanh đầu tiên về trình duyệt trong <150ms vừa đồng thời lưu vào bộ đệm SSD để nghe lại vĩnh viễn không trễ.",
+    "🛡️ [Khắc Phục Lỗi Checkpoint & Tự Động Sinh Cache Song Song]: Sửa triệt để lỗi callback gián đoạn khi lưu đoạn dịch, kích hoạt worker pool sinh sẵn 100% file âm thanh cho các câu mới dịch ngay khi AI vừa trả về kết quả.",
+    "🎵 [Khử Triệt Để Hiện Tượng Cắt Cụt Câu Đọc & Rolling Active Window]: Loại bỏ vòng lặp ngắt kết nối 3s, duy trì bộ đệm gối đầu 5-7 câu kế tiếp mượt mà; cho phép câu thoại kết thúc tự nhiên, êm dịu, không giật pop/click.",
+    "🔒 [Bảo Toàn 100% Chuẩn Xác Khi Xuất Video]: File âm thanh làm ấm sẵn giúp tiến trình 'Xuất & Tải Video' đạt tốc độ tối đa, khớp 100% phụ đề và lồng tiếng chuẩn xác đến từng khung hình."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.5/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.6/latest_ota_package.zip"
 }
