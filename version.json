@@ -1,16 +1,16 @@
 {
-  "version": "3.7.4",
-  "currentVersion": "3.7.4",
+  "version": "3.7.5",
+  "currentVersion": "3.7.5",
   "buildDate": "2026-09-23",
-  "packageSize": "18.6 MB (Nâng Cấp Đột Phá Lấy Cảm Hứng Từ SubAI v3.7.4)",
+  "packageSize": "18.6 MB (Bản Vá Hoàn Thiện Lồng Tiếng Đa Vai & Tùy Chọn v3.7.5)",
   "updateServerUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio",
   "requireVipForUpdates": false,
   "releaseNotes": [
-    "🔥 [Lồng Tiếng Đa Vai Song Song Nam & Nữ (Dual-Speaker)]: Bổ sung tính năng chọn đồng thời Giọng Nam và Giọng Nữ, tích hợp nút đổi vai 1-chạm [👦 Nam] 🔁 [🌸 Nữ] trực tiếp trên từng câu phụ đề và nút '✨ Phân vai AI' tự động phân tích vai nhân vật đối thoại.",
-    "✨ [Tách Nhạc Nền & Triệt Tiêu Giọng Thoại Gốc (BGM Isolation)]: Triệt tiêu giọng thoại gốc của video tới 90%, giữ nguyên 100% nhạc nền và tiếng động hiện trường, hòa âm hoàn hảo cùng giọng đọc tiếng Việt.",
-    "📊 [Thanh Quy Trình Pipeline 4 Bước Trực Quan]: Giao diện Studio mới với thanh Stepper 4 bước rõ ràng: Nạp Video & Tách Sub ➔ Dịch Thuật AI ➔ Lồng Tiếng Đa Vai ➔ Xuất Video Hoàn Thiện.",
-    "🌊 [Watermark Trôi Ngẫu Nhiên Chống Reup]: Thêm chế độ vị trí watermark trôi ngẫu nhiên mượt mà trên toàn khung hình, bảo vệ bản quyền video tuyệt đối.",
-    "🎵 [Nạp Video 1-Click từ Douyin / Bilibili / TikTok]: Tự động trích xuất link sạch không logo từ đoạn văn bản chia sẻ, tải trực tiếp vào Studio với tốc độ tối đa."
+    "🛠️ [Lồng Tiếng Đa Vai Là Tùy Chọn 100%]: Chế độ đa vai Nam & Nữ giờ đây là tùy chọn linh hoạt (Mặc định TẮT). Khi tắt, toàn bộ video đọc bằng 1 chất giọng chuẩn duy nhất đã chọn (Đơn giọng); danh sách phụ đề không hiện nút Nam/Nữ hay Phân vai AI, giao diện tối giản sạch sẽ.",
+    "⚡ [Khắc Phục Triệt Để Lỗi Chạy Mãi Không Dứt]: Sửa triệt để lỗi chuyển đổi âm thanh raw PCM từ Google AI Studio (PCM-to-WAV 44-byte RIFF auto-wrapper), loại bỏ lỗi FFmpeg code 3199971767, giúp giọng AI Studio cất tiếng tức thì 0ms.",
+    "🎭 [Đồng Bộ Toàn Diện Giọng Nam & Giọng Nữ]: Trình phát VideoPlayerSync và bộ xuất video đã được kết nối đồng bộ 100% với cặp Giọng Nam & Giọng Nữ tùy chọn (Charon, Puck, Kore, Fenrir...).",
+    "📊 [Quy Trình Pipeline Chuẩn Hóa]: Bước 3 trên thanh Stepper hiển thị chuẩn '3. Lồng Tiếng & Tinh Chỉnh' (chỉ hiện huy hiệu Đa vai khi người dùng chủ động bật).",
+    "🛡️ [Chống Tràn Bộ Nhớ & Trùng Lặp Tiến Trình]: Tối ưu hóa Background TTS Warmer với cơ chế debounce thông minh, triệt tiêu 100% tình trạng spam kết nối gây đơ máy."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.7.4/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.7.5/latest_ota_package.zip"
 }
