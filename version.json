@@ -1,15 +1,16 @@
 {
-  "version": "3.7.3",
-  "currentVersion": "3.7.3",
-  "buildDate": "2026-09-22",
-  "packageSize": "18.5 MB (Tích Hợp Google AI Studio Generate Speech & Tinh Gọn 2 Giọng Cốt Lõi v3.7.3)",
+  "version": "3.7.4",
+  "currentVersion": "3.7.4",
+  "buildDate": "2026-09-23",
+  "packageSize": "18.6 MB (Nâng Cấp Đột Phá Lấy Cảm Hứng Từ SubAI v3.7.4)",
   "updateServerUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio",
   "requireVipForUpdates": false,
   "releaseNotes": [
-    "🚀 [Tích Hợp Google AI Studio Generate Speech]: Bổ sung 6 giọng chủ lực điện ảnh mới (Charon, Puck, Kore, Fenrir, Aoede, Zephyr) và 6 giọng mở rộng (Despina, Enceladus, Leda, Orus, Sadachbia, Sulafat) từ Google AI Studio, lồng tiếng cảm xúc chân thực tuyệt đối.",
-    "🎯 [Tinh Gọn Giọng Truyền Thống Cốt Lõi]: Giữ lại đúng 2 giọng Nam Minh và Hoài My theo đúng yêu cầu, loại bỏ toàn bộ các giọng cũ rườm rà, giao diện gọn gàng trực quan.",
-    "⚡ [Lồng Tiếng Tức Thời 0ms & Tự Động Co Giãn Tốc Độ]: Tích hợp cơ chế nghe thử và đổi giọng ngay lập tức không cần tải lại trang. Tự động đồng bộ chuẩn xác 100% theo phụ đề Vietsub (Zero Drift), tự động tăng/giảm nhịp độ đọc khớp từng giây.",
-    "🔑 [Dùng Chung Gemini API Key & Fallback Thông Minh]: Tự động sử dụng API Key đã lưu trong VideoSub Studio, cơ chế dự phòng an toàn tuyệt đối tự động chuyển sang Edge TTS nếu hết quota hoặc rớt mạng."
+    "🔥 [Lồng Tiếng Đa Vai Song Song Nam & Nữ (Dual-Speaker)]: Bổ sung tính năng chọn đồng thời Giọng Nam và Giọng Nữ, tích hợp nút đổi vai 1-chạm [👦 Nam] 🔁 [🌸 Nữ] trực tiếp trên từng câu phụ đề và nút '✨ Phân vai AI' tự động phân tích vai nhân vật đối thoại.",
+    "✨ [Tách Nhạc Nền & Triệt Tiêu Giọng Thoại Gốc (BGM Isolation)]: Triệt tiêu giọng thoại gốc của video tới 90%, giữ nguyên 100% nhạc nền và tiếng động hiện trường, hòa âm hoàn hảo cùng giọng đọc tiếng Việt.",
+    "📊 [Thanh Quy Trình Pipeline 4 Bước Trực Quan]: Giao diện Studio mới với thanh Stepper 4 bước rõ ràng: Nạp Video & Tách Sub ➔ Dịch Thuật AI ➔ Lồng Tiếng Đa Vai ➔ Xuất Video Hoàn Thiện.",
+    "🌊 [Watermark Trôi Ngẫu Nhiên Chống Reup]: Thêm chế độ vị trí watermark trôi ngẫu nhiên mượt mà trên toàn khung hình, bảo vệ bản quyền video tuyệt đối.",
+    "🎵 [Nạp Video 1-Click từ Douyin / Bilibili / TikTok]: Tự động trích xuất link sạch không logo từ đoạn văn bản chia sẻ, tải trực tiếp vào Studio với tốc độ tối đa."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.7.3/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.7.4/latest_ota_package.zip"
 }
