@@ -1,15 +1,15 @@
 {
-  "version": "3.7.1",
-  "currentVersion": "3.7.1",
+  "version": "3.7.2",
+  "currentVersion": "3.7.2",
   "buildDate": "2026-09-22",
-  "packageSize": "17.9 MB (Bản Tự Động Xóa Phụ Đề Gốc & CapCut Trend Chuẩn Đẹp v3.7.1)",
+  "packageSize": "18.0 MB (Bản Che Mờ Trong Suốt, Khớp Vị Trí & Setup Chuyên Nghiệp v3.7.2)",
   "updateServerUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio",
   "requireVipForUpdates": false,
   "releaseNotes": [
-    "🛠️ [Khắc Phục 100% Lỗi Bấm Dịch Lại]: Triệt tiêu lỗi 'Converting circular structure to JSON' khi bấm tiếp tục dịch hoặc dịch lại. Ép kiểu an toàn, vận hành mượt mà.",
-    "✨ [Tự Động Xóa Sạch 100% Phụ Đề Gốc Sát Đáy Video]: Cấu hình mặc định Inpainting Mask sát chân video (cách đáy 2%, cao 16%, rộng 94%) với bộ lọc mờ sâu boxblur=32:5, triệt tiêu hoàn toàn bóng chữ tiếng Trung/Anh gốc trong video.",
-    "⚡ [Loại Bỏ Ô Đen Chồng Chéo Ở Chế Độ CapCut Trend]: Xóa bỏ hoàn toàn hộp đen đè chữ BorderStyle=3; đưa về chuẩn phụ đề hiện đại: chữ trắng viền đen sắc nét nổi khối 3D, hiệu ứng highlight từ khóa mượt mà, đặt vừa vặn vào chính giữa vùng đã làm mờ.",
-    "🎯 [Khớp 1-1 Tuyệt Đối Theo Từng Phụ Đề Gốc - Chống Gộp Câu]: Thiết lập seed: 42 cố định và ràng buộc nghiêm ngặt trong AI: không bao giờ gộp câu, mỗi câu/nhịp thoại 1.5s - 3.2s tương ứng chuẩn xác với từng khung phụ đề gốc xuất hiện, đồng nhất số lượng câu giữa các lần dịch."
+    "✨ [Làm Mờ Trong Trẻo - Không Còn Mảng Đục Thô Cứng]: Tinh chỉnh độ tối trong suốt về 24% kết hợp boxblur mịn màng. Giữ trọn vẹn màu sắc tự nhiên của video và khuôn mặt, xóa sạch 100% nét chữ tiếng Trung/Anh gốc mà không bị lộ vết cắt hình chữ nhật.",
+    "🎯 [Khớp Vị Trí Phụ Đề Cho Từng Video]: Hỗ trợ kéo thả trực tiếp vùng che mờ bằng chuột trên màn hình Video Preview; bổ sung bộ Preset 1-chạm (Sát đáy 2%, Điện ảnh 6%, TikTok/Douyin 12%, Nâng cao 18%). Phụ đề Vietsub tự động khóa tâm chuẩn xác vào giữa vùng che.",
+    "⏱️ [Ngắt Nghỉ Câu Chuẩn Xác - Dứt Lời Là Tắt]: Gỡ bỏ gộp câu tự động; bổ sung thuật toán Duration Clamping tính thời gian hiển thị tương ứng với độ dài từ ngữ thực tế, không treo phụ đề quá lâu khi nhân vật đã ngừng nói.",
+    "📦 [Trình Cài Đặt Setup Wizard Chuyên Nghiệp]: Nâng cấp Setup.exe hiện đại, cho phép người dùng tự do chọn ổ đĩa và thư mục cài đặt bất kỳ (C:, D:, H: SSD di động...), kiểm tra dung lượng ổ đĩa thời gian thực, tùy chọn Desktop Shortcut và chế độ Portable độc lập."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.7.1/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.7.2/latest_ota_package.zip"
 }
