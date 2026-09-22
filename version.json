@@ -1,15 +1,15 @@
 {
-  "version": "3.7.2",
-  "currentVersion": "3.7.2",
+  "version": "3.7.3",
+  "currentVersion": "3.7.3",
   "buildDate": "2026-09-22",
-  "packageSize": "18.0 MB (Bản Che Mờ Trong Suốt, Khớp Vị Trí & Setup Chuyên Nghiệp v3.7.2)",
+  "packageSize": "18.5 MB (Tích Hợp Google AI Studio Generate Speech & Tinh Gọn 2 Giọng Cốt Lõi v3.7.3)",
   "updateServerUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio",
   "requireVipForUpdates": false,
   "releaseNotes": [
-    "✨ [Làm Mờ Trong Trẻo - Không Còn Mảng Đục Thô Cứng]: Tinh chỉnh độ tối trong suốt về 24% kết hợp boxblur mịn màng. Giữ trọn vẹn màu sắc tự nhiên của video và khuôn mặt, xóa sạch 100% nét chữ tiếng Trung/Anh gốc mà không bị lộ vết cắt hình chữ nhật.",
-    "🎯 [Khớp Vị Trí Phụ Đề Cho Từng Video]: Hỗ trợ kéo thả trực tiếp vùng che mờ bằng chuột trên màn hình Video Preview; bổ sung bộ Preset 1-chạm (Sát đáy 2%, Điện ảnh 6%, TikTok/Douyin 12%, Nâng cao 18%). Phụ đề Vietsub tự động khóa tâm chuẩn xác vào giữa vùng che.",
-    "⏱️ [Ngắt Nghỉ Câu Chuẩn Xác - Dứt Lời Là Tắt]: Gỡ bỏ gộp câu tự động; bổ sung thuật toán Duration Clamping tính thời gian hiển thị tương ứng với độ dài từ ngữ thực tế, không treo phụ đề quá lâu khi nhân vật đã ngừng nói.",
-    "📦 [Trình Cài Đặt Setup Wizard Chuyên Nghiệp]: Nâng cấp Setup.exe hiện đại, cho phép người dùng tự do chọn ổ đĩa và thư mục cài đặt bất kỳ (C:, D:, H: SSD di động...), kiểm tra dung lượng ổ đĩa thời gian thực, tùy chọn Desktop Shortcut và chế độ Portable độc lập."
+    "🚀 [Tích Hợp Google AI Studio Generate Speech]: Bổ sung 6 giọng chủ lực điện ảnh mới (Charon, Puck, Kore, Fenrir, Aoede, Zephyr) và 6 giọng mở rộng (Despina, Enceladus, Leda, Orus, Sadachbia, Sulafat) từ Google AI Studio, lồng tiếng cảm xúc chân thực tuyệt đối.",
+    "🎯 [Tinh Gọn Giọng Truyền Thống Cốt Lõi]: Giữ lại đúng 2 giọng Nam Minh và Hoài My theo đúng yêu cầu, loại bỏ toàn bộ các giọng cũ rườm rà, giao diện gọn gàng trực quan.",
+    "⚡ [Lồng Tiếng Tức Thời 0ms & Tự Động Co Giãn Tốc Độ]: Tích hợp cơ chế nghe thử và đổi giọng ngay lập tức không cần tải lại trang. Tự động đồng bộ chuẩn xác 100% theo phụ đề Vietsub (Zero Drift), tự động tăng/giảm nhịp độ đọc khớp từng giây.",
+    "🔑 [Dùng Chung Gemini API Key & Fallback Thông Minh]: Tự động sử dụng API Key đã lưu trong VideoSub Studio, cơ chế dự phòng an toàn tuyệt đối tự động chuyển sang Edge TTS nếu hết quota hoặc rớt mạng."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.7.2/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.7.3/latest_ota_package.zip"
 }
