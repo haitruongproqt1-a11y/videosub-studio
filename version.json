@@ -1,15 +1,16 @@
 {
-  "version": "3.7.6",
-  "currentVersion": "3.7.6",
-  "buildDate": "2026-10-02",
-  "packageSize": "18.8 MB (Bản Vá Lồng Tiếng Chuẩn Xác Vietsub & Xuất Siêu Tốc v3.7.6)",
+  "version": "3.7.7",
+  "currentVersion": "3.7.7",
+  "buildDate": "2026-11-09",
+  "packageSize": "18.8 MB (Bản Nâng Cấp Toàn Diện Chuẩn Mượt & Khớp 100% Vietsub v3.7.7)",
   "updateServerUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio",
   "requireVipForUpdates": false,
   "releaseNotes": [
-    "🎙️ [Khắc Phục Toàn Diện Lỗi Lồng Tiếng Đọc Không Chuẩn Vietsub]: Tối ưu hóa làm sạch văn bản phụ đề (loại bỏ sound cue [nhạc], (cười), dấu chấm lửng ngắc ngứ), chống đọc nhầm tiếng nước ngoài gốc. Thuật toán Smart Tempo Auto-Fitting (co giãn tốc độ đến 1.85x) và cơ chế Chống Đè Tiếng (Zero Voice Overlap) bảo đảm câu trước phát âm trọn vẹn dứt khoát trước khi câu sau cất tiếng, khớp 100% từng mili-giây với chữ hiển thị trên màn hình.",
-    "⚡ [Tăng Tốc Xuất Lồng Tiếng Gấp 5-10 Lần]: Tối ưu luồng xử lý, loại bỏ độ trễ network chờ đợi, trang bị Circuit Breaker 60s thông minh tự động chuyển tức thì sang bộ giải mã Edge-TTS siêu tốc 0ms khi chạm hạn mức API. Quá trình tạo giọng đọc thuyết minh hoàn tất chỉ trong 3-5 giây thay vì phải đợi lâu.",
-    "🎭 [Phân Biệt Rõ Rệt Từng Chất Giọng & Phong Cách]: Tái hiệu chỉnh toàn diện dải tần cao độ (Pitch) và nhịp điệu (Rate) cho tất cả các giọng Google AI Studio & Truyền Thống (Charon trầm ấm điện ảnh -36Hz, Puck sôi nổi TikTok +36Hz, Kore truyền cảm sâu lắng -26Hz, Enceladus trầm dày -52Hz, Despina tươi vui +40Hz...), giúp người nghe phân biệt rõ ràng từng nhân vật.",
-    "🔄 [Đồng Bộ Phụ Đề Mới Nhất Khi Xuất Video]: Truyền trực tiếp danh sách phụ đề vừa chỉnh sửa vào tiến trình render, đảm bảo video và file lồng tiếng luôn sử dụng bản Vietsub mới nhất 100%."
+    "🎯 [Đồng Bộ Khung Hình Chuẩn Xác 100% (Sample & Frame-Accurate Sync)]: Tự động căn chỉnh mốc kết thúc của Vietsub (seg.end) khớp chính xác từng mili-giây với thời lượng phát âm thực tế của giọng đọc AI. Triệt tiêu hoàn toàn lỗi biến mất phụ đề sớm trong khi giọng đọc vẫn nói hoặc phụ đề còn treo trên màn hình khi đã dứt tiếng.",
+    "⚡ [Smart Tempo Chống Cắt Cụt Câu Thoại]: Tự động nhận diện khoảng trống thời gian phía sau (availableSlot). Nếu có khoảng lặng, giữ nguyên nhịp nói tự nhiên (1.0x). Nếu thời gian chật hẹp, tự động co giãn tempo mượt mà bằng chuỗi FFmpeg atempo (lên đến 2.5x), đảm bảo câu dài đến đâu cũng được đọc trọn vẹn 100%, không bao giờ bị cắt cụt đuôi câu.",
+    "🧹 [Bộ Lọc Làm Sạch Phụ Đề Chuyên Sâu]: Mở rộng thuật toán lọc bỏ 100% âm thanh mô tả [nhạc], [music], [tiếng súng], (cười), (applause), nốt nhạc ♪ ♫, dấu ba chấm ngắt nghỉ vô lý... Đồng thời bảo toàn nguyên vẹn từ ngữ có dấu gạch ngang (Covid-19, Wi-Fi...) và tiền tố câu bình thường.",
+    "🎭 [Tự Động & Tùy Chọn Phân Vai Đa Giọng Linh Hoạt]: Ưu tiên tuyệt đối chất giọng riêng của từng câu khi người dùng chỉ định. Khi bật chế độ Đa Vai, hệ thống tự động nhận diện đại từ xưng hô Nam/Nữ để phân vai sinh động, tự nhiên.",
+    "📥 [Xuất Đa Định Dạng & Tải Âm Thanh Rời]: Bổ sung tính năng tải tệp âm thanh lồng tiếng riêng biệt (.MP3) và phụ đề (.SRT, .VTT) đồng bộ chuẩn timeline để nhập trực tiếp vào CapCut, Premiere Pro, DaVinci Resolve."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.7.6/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.7.7/latest_ota_package.zip"
 }
