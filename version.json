@@ -1,16 +1,16 @@
 {
-  "version": "3.7.8",
-  "currentVersion": "3.7.8",
+  "version": "3.7.9",
+  "currentVersion": "3.7.9",
   "buildDate": "2026-11-09",
-  "packageSize": "17.2 MB (Bản Vá Toàn Diện Trình Tải Link Video & Chuẩn Hóa Đa Nền Tảng v3.7.8)",
+  "packageSize": "17.5 MB (Bản Nâng Cấp Giọng Đọc Google AI Studio & Bộ Tải Link Đa Nền Tảng v3.7.9)",
   "updateServerUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio",
   "requireVipForUpdates": false,
   "releaseNotes": [
-    "🚀 [Khắc Phục Triệt Để Lỗi Tải Link Bilibili, Douyin, TikTok, YouTube]: Tự động nhận diện và chuẩn hóa tất cả các biến thể URL (loại bỏ các tiền tố ngôn ngữ /zh-Hans/, /zh-Hant/, /en/ của Bilibili; xử lý query rác ?spm_id_from=...; chuẩn hóa modal_id Douyin, YouTube shorts, TikTok). Triệt tiêu hoàn toàn lỗi 'The extracted extension (html) is unusual and will be skipped for safety reasons'.",
-    "⚡ [Tải Video Siêu Tốc & Nhận Diện Thời Lượng Chuẩn Xác]: Kết nối trực tiếp vào luồng video chất lượng cao (Full HD / 480p), trích xuất chính xác 100% tiêu đề, ảnh thumbnail và thời lượng video (khắc phục lỗi hiển thị 00:00).",
-    "🎯 [Đồng Bộ Khung Hình Chuẩn Xác 100% (Sample & Frame-Accurate Sync)]: Tự động căn chỉnh mốc kết thúc của Vietsub (seg.end) khớp chính xác từng mili-giây với thời lượng phát âm thực tế của giọng đọc AI. Triệt tiêu hoàn toàn lỗi biến mất phụ đề sớm trong khi giọng đọc vẫn nói hoặc phụ đề còn treo trên màn hình khi đã dứt tiếng.",
-    "⚡ [Smart Tempo Chống Cắt Cụt Câu Thoại]: Tự động nhận diện khoảng trống thời gian phía sau (availableSlot). Nếu có khoảng lặng, giữ nguyên nhịp nói tự nhiên (1.0x). Nếu thời gian chật hẹp, tự động co giãn tempo mượt mà bằng chuỗi FFmpeg atempo (lên đến 2.5x), đảm bảo câu dài đến đâu cũng được đọc trọn vẹn 100%, không bao giờ bị cắt cụt đuôi câu.",
-    "🛡️ [Vá Lỗi Toàn Diện Microsoft Edge-TTS 403 Forbidden]: Cập nhật module msedge-tts v2.1.1 với chữ ký handshake Sec-MS-GEC token chuẩn xác, kết hợp cơ chế Circuit Breaker và dự phòng tức thì, đảm bảo tạo giọng nói 0ms ổn định 100%."
+    "👑 [Khôi Phục & Nâng Cấp Giọng Đọc Điện Ảnh Google AI Studio Siêu Cấp]: Tích hợp bộ tạo giọng nói đỉnh cao từ Google AI Studio (Charon - Nam Trầm Ấm Điện Ảnh, Puck - Nam Trẻ Trung TikTok, Kore - Nữ Cảm Xúc Tâm Sự, Fenrir, Aoede, Zephyr...). Giọng đọc truyền cảm, sâu lắng chuẩn diễn viên lồng tiếng phim chuyên nghiệp, triệt tiêu hoàn toàn cảm giác giọng robot thô cứng.",
+    "🛡️ [Triệt Tiêu Triệt Để Lỗi Rớt Câu & Im Lặng 0ms]: Khắc phục triệt để lỗi 'Stream closed before the synthesis completed (no turn.end received)' bằng cơ chế kiểm soát hàng đợi 2 worker thông minh, giãn cách kết nối WebSocket vi mô và tạm dừng Warmer ngầm trong lúc xuất video. Đảm bảo 100% câu thoại đều có giọng đọc đầy đủ, không bao giờ bị ngắt quãng hay câm tiếng.",
+    "🚀 [Tự Động Lưu Trữ Vĩnh Viễn Gemini API Key (AppData)]: API Key được đồng bộ và lưu trữ vĩnh viễn trên máy tính (AppData/Roaming), tự động nhận diện và khôi phục ngay sau khi khởi động hoặc cập nhật, không lo mất key hay bị rơi về giọng mặc định.",
+    "⚡ [Chuẩn Hóa Triệt Để 100% Link Tải Video]: Khắc phục hoàn toàn lỗi tải link Bilibili (loại bỏ /zh-Hans/, /zh-Hant/, /en/, /m/, query spm_id_from rác), xử lý URL trần không có https://, hỗ trợ chuẩn xác Douyin, TikTok, YouTube và Kuaishou. Triệt tiêu hoàn toàn lỗi 'The extracted extension (html) is unusual'.",
+    "🎯 [Đồng Bộ Khớp Phụ Đề & Giọng Đọc Chuẩn Xác Từng Mili-giây (Sample-Accurate Sync)]: Tự động căn chỉnh mốc kết thúc của Vietsub (seg.end) khớp chính xác từng mili-giây với thời lượng phát âm thực tế của giọng đọc AI."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.7.8/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.7.9/latest_ota_package.zip"
 }
