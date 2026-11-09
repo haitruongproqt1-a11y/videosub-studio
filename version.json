@@ -1,16 +1,18 @@
 {
-  "version": "3.8.0",
-  "currentVersion": "3.8.0",
+  "version": "3.8.1",
+  "currentVersion": "3.8.1",
   "buildDate": "2026-11-09",
-  "packageSize": "17.6 MB (Bản Nâng Cấp Hệ Thống 11 Giọng Đọc AI Thuần Việt 1-Chạm v3.8.0)",
+  "packageSize": "17.6 MB (Bản Nâng Cấp Tải Link & Dàn Giọng Đọc Thuần Việt v3.8.1)",
   "updateServerUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio",
   "requireVipForUpdates": false,
   "releaseNotes": [
+    "🚀 [Khắc Phục Triệt Để 100% Lỗi Tải Video Link Trực Tuyến]: Khắc phục hoàn toàn lỗi trích xuất đuôi ('html') trên Bilibili, Douyin, TikTok, YouTube. Tự động nhận diện và trích xuất mã BV/video ID ngay cả khi URL bị dính dấu cách do Google Dịch ('zh Hans', 'vidco', hoặc có tiêu đề tiếng Trung bao quanh).",
+    "🖼️ [Hiển Thị Thumbnail Bilibili Sắc Nét]: Tích hợp cơ chế bỏ chặn Hotlink CDN Bilibili (no-referrer), giúp ảnh thu nhỏ (thumbnail) hiển thị ngay lập tức, không còn bị lỗi ảnh vỡ.",
     "🎙️ [Tái Cấu Trúc Toàn Diện Dàn Giọng Đọc 100% Thuần Việt]: Xóa bỏ hoàn toàn các tên tiếng Anh khó nhớ và hệ thống preset gây rối rắm. Thay thế bằng 11 Giọng Đọc Chuẩn Mực phân loại theo mục đích sử dụng thực tế (Nam Review Phim, Nam TikTok Trẻ, Nam Thời Sự, Nam Kể Chuyện Đêm, Nam Uy Lực, Nữ Tâm Sự, Nữ Sách Nói, Nữ Review Vlog, Nữ Doanh Nhân...).",
     "⚡ [Giao Diện 1-Chạm Siêu Dễ Dùng & Tabs Thông Minh]: Phân nhóm trực quan theo [Tất Cả] | [👨 Giọng Nam] | [👩 Giọng Nữ]. Người dùng chỉ cần bấm 1 chạm để chọn giọng, hệ thống tự động tối ưu hóa âm sắc, ngữ điệu, cao độ và tốc độ hoàn hảo nhất.",
     "▶️ [Tính Năng Nghe Thử Trực Tiếp Trên Từng Thẻ]: Tích hợp nút Nghe Thử tức thời ngay trên mỗi ô giọng đọc kèm hiệu ứng sóng âm đang phát. Dễ dàng so sánh và chọn chất giọng ưng ý nhất trong 3 giây.",
     "👥 [Chuẩn Hóa Bộ Lồng 2 Giọng Song Song (Nam & Nữ)]: Tự động đồng bộ các danh mục giọng Nam/Nữ thuần Việt vào bảng phân vai lồng tiếng 2 người, kết hợp tính năng Tự Động Phân Vai AI cực kỳ chuẩn xác.",
     "🛡️ [Kế Thừa Động Cơ Google AI Studio & Khớp Phụ Đề Từng Khung Hình]: Đảm bảo 100% âm thanh điện ảnh truyền cảm, triệt tiêu lỗi rớt tiếng (Zero-Drop) và đồng bộ khớp chính xác từng mili-giây với Vietsub."
   ],
-  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.8.0/latest_ota_package.zip"
+  "updateUrl": "https://github.com/haitruongproqt1-a11y/videosub-studio/releases/download/v3.8.1/latest_ota_package.zip"
 }
